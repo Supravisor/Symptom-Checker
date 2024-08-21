@@ -1,0 +1,9 @@
+
+body {
+  padding: 20px;
+}
+
+span > input {
+ background-color: rgb(180,180,180);
+}
+
