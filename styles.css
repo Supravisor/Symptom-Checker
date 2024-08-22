@@ -7,3 +7,10 @@ span > input {
  background-color: rgb(180,180,180);
 }
 
+input {
+  border-color: red;
+  border-radius: 6px;
+  margin-right: 4px;
+  margin-bottom: 8px;
+  padding: 8px;
+}
