@@ -3,6 +3,10 @@ body {
   padding: 20px;
 }
 
+p {
+ font-family: Corbel;
+}
+
 span > input {
  background-color: rgb(180,180,180);
 }
