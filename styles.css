@@ -11,6 +11,10 @@ span > input {
  background-color: rgb(180,180,180);
 }
 
+span {
+  margin-left: 125px;
+}
+
 input {
   border-color: red;
   border-radius: 6px;
