@@ -24,6 +24,7 @@
 
 <!-- Health condition -->
 
+  <input value="" name="GlandularFever" size="10" type="text">
   <input value="" name="Influenza" size="6" type="text">
   <input value="" name="Monkeypox" size="7" type="text">
   <input value="" name="ScarletFever" size="8" type="text">
