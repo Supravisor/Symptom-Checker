@@ -24,16 +24,17 @@
   <input value="joint pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';document.symptom.GlandularFever.value='Glandular fever'">
   <input value="lesion anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
   <input value="muscle twitches" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="rash anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
 
 </span></p>
 
 <!-- Health condition -->
 
-  <input value="" name="AcuteBronchitis" size="11" type="text">
+  <input value="" name="AcuteBronchitis" size="12" type="text">
   <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
   <input value="" name="Monkeypox" size="7" type="text">
-  <input value="" name="POTS" size="32" type="text">
+  <input value="" name="POTS" size="34" type="text">
   <input value="" name="Pneumonia" size="7" type="text">
   <input value="" name="RheumaticFever" size="11" type="text">
   <input value="" name="ScarletFever" size="8" type="text">
