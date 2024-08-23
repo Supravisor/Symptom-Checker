@@ -24,6 +24,7 @@
 
 <!-- Health condition -->
 
+  <input value="" name="AcuteBronchitis" size="10" type="text">
   <input value="" name="GlandularFever" size="10" type="text">
   <input value="" name="Influenza" size="6" type="text">
   <input value="" name="Monkeypox" size="7" type="text">
