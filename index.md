@@ -12,12 +12,13 @@
   </span></p>
 
 <p>Arms<span>
-<input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
+  <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
 </span></p>
 
 <p>Body<span>
-<input value="body aches" type="button" onClick="document.symptom.Influenza.value='Influenza';document.symptom.Monkeypox.value='Monkeypox'">
-<input value="body pains" type="button" onClick="document.symptom.Influenza.value='Influenza'">
+  <input value="body aches" type="button" onClick="document.symptom.Influenza.value='Influenza';document.symptom.Monkeypox.value='Monkeypox'">
+  <input value="body pains" type="button" onClick="document.symptom.Influenza.value='Influenza'">
+  <input value="fever" type="button" onClick="document.symptom.GlandularFever.value='Glandular fever';document.symptom.AcuteBronchitis.value='Acute bronchitis';document.symptom.Influenza.value='Influenza'">
 
 </span></p>
 
