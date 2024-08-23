@@ -17,6 +17,7 @@
 
 <p>Body<span>
 <input value="body aches" type="button" onClick="document.symptom.Influenza.value='Influenza';document.symptom.Monkeypox.value='Monkeypox'">
+<input value="body pains" type="button" onClick="document.symptom.Influenza.value='Influenza'">
 
 </span></p>
 
