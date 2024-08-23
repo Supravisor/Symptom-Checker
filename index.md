@@ -1,3 +1,4 @@
+
 <link href="./styles.css" rel="stylesheet" />
 
 <p>Click on the button below which match the symptom or symptoms you have.</p>
@@ -19,13 +20,25 @@
   <input value="body aches" type="button" onClick="document.symptom.Influenza.value='Influenza';document.symptom.Monkeypox.value='Monkeypox'">
   <input value="body pains" type="button" onClick="document.symptom.Influenza.value='Influenza'">
   <input value="fever" type="button" onClick="document.symptom.GlandularFever.value='Glandular fever';document.symptom.AcuteBronchitis.value='Acute bronchitis';document.symptom.Influenza.value='Influenza'">
+  <input value="high fever" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';document.symptom.Influenza.value='Influenza'">
+  <input value="joint pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';document.symptom.GlandularFever.value='Glandular fever'">
+  <input value="lesion anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
+  <input value="muscle twitches" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="rash anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
+  <input value="red skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
+  <input value="shaking body" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
 
 </span></p>
 
 <!-- Health condition -->
 
+  <input value="" name="AcuteBronchitis" size="12" type="text">
+  <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
   <input value="" name="Monkeypox" size="7" type="text">
+  <input value="" name="POTS" size="36" type="text">
+  <input value="" name="Pneumonia" size="7" type="text">
+  <input value="" name="RheumaticFever" size="11" type="text">
   <input value="" name="ScarletFever" size="8" type="text">
 
 </form>
