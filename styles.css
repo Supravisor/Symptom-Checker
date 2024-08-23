@@ -13,6 +13,7 @@ span > input {
 }
 
 span {
+  display: block;
   margin-left: 125px;
 }
 
