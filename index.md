@@ -17,12 +17,14 @@
 
 <p>Body<span>
 <input value="body aches" type="button" onClick="document.symptom.Influenza.value='Influenza';document.symptom.Monkeypox.value='Monkeypox'">
+<input value="body pains" type="button" onClick="document.symptom.Influenza.value='Influenza'">
 
 </span></p>
 
 <!-- Health condition -->
 
-  <input value="" name="ScarletFever" size="7" type="text">
   <input value="" name="Influenza" size="6" type="text">
-  <input value="" name="Monkeypox" size="6" type="text">
+  <input value="" name="Monkeypox" size="7" type="text">
+  <input value="" name="ScarletFever" size="8" type="text">
+
 </form>
