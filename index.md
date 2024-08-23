@@ -26,6 +26,7 @@
   <input value="muscle twitches" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="rash anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
   <input value="red skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
+  <input value="shaking body" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
 
 </span></p>
 
@@ -35,7 +36,7 @@
   <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
   <input value="" name="Monkeypox" size="7" type="text">
-  <input value="" name="POTS" size="34" type="text">
+  <input value="" name="POTS" size="36" type="text">
   <input value="" name="Pneumonia" size="7" type="text">
   <input value="" name="RheumaticFever" size="11" type="text">
   <input value="" name="ScarletFever" size="8" type="text">
