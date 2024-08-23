@@ -11,6 +11,10 @@
   <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
   </span></p>
 
+<p>Arms<span>
+<input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
+</span></p>
+
 <!-- Health condition -->
 
   <input value="" name="ScarletFever" size="7" type="text">
