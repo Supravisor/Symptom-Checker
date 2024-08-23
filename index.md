@@ -33,6 +33,7 @@
   <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
   <input value="" name="Monkeypox" size="7" type="text">
+  <input value="" name="POTS" size="32" type="text">
   <input value="" name="Pneumonia" size="7" type="text">
   <input value="" name="RheumaticFever" size="11" type="text">
   <input value="" name="ScarletFever" size="8" type="text">
