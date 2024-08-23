@@ -21,6 +21,8 @@
   <input value="body pains" type="button" onClick="document.symptom.Influenza.value='Influenza'">
   <input value="fever" type="button" onClick="document.symptom.GlandularFever.value='Glandular fever';document.symptom.AcuteBronchitis.value='Acute bronchitis';document.symptom.Influenza.value='Influenza'">
   <input value="high fever" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';document.symptom.Influenza.value='Influenza'">
+  <input value="joint pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';document.symptom.GlandularFever.value='Glandular fever'">
+  
 </span></p>
 
 <!-- Health condition -->
