@@ -1,3 +1,4 @@
+
 <link href="./styles.css" rel="stylesheet" />
 
 <p>Click on the button below which match the symptom or symptoms you have.</p>
@@ -19,7 +20,7 @@
   <input value="body aches" type="button" onClick="document.symptom.Influenza.value='Influenza';document.symptom.Monkeypox.value='Monkeypox'">
   <input value="body pains" type="button" onClick="document.symptom.Influenza.value='Influenza'">
   <input value="fever" type="button" onClick="document.symptom.GlandularFever.value='Glandular fever';document.symptom.AcuteBronchitis.value='Acute bronchitis';document.symptom.Influenza.value='Influenza'">
-
+  <input value="high fever" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';document.symptom.Influenza.value='Influenza'">
 </span></p>
 
 <!-- Health condition -->
