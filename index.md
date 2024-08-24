@@ -48,6 +48,7 @@
 
 <p>Ears<span>
   <input value="ache" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
+  <input value="blocked" type="button" onClick="document.symptom.YouHaveACold.value='You have a cold'">
 
 </span></p>
 
