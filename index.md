@@ -29,7 +29,7 @@
   <input value="shaking body" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
   <input value="sweating excessively" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="temperature of 37C" type="button" onClick="document.symptom.YouHaveACold.value='You have a cold'">
+  <input value="temperature of 37C" type="button" onClick="document.symptom.Cold.value='You have a cold'">
 
 </span></p>
 
