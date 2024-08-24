@@ -46,6 +46,12 @@
   <input value="irritable bowel syndrome" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
 </span></p>
 
+<p>Ears<span>
+  <input value="ache" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
+  <input value="blocked" type="button" onClick="document.symptom.Cold.value='Cold'">
+  <input value="sound sensitivity" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+</span></p>
+
 
 <!-- Health condition -->
 
