@@ -52,6 +52,12 @@
   <input value="sound sensitivity" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
 </span></p>
 
+<p>Eyes<span>
+  <input value="blurred vision" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="light sensitivity" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="tunnel vision" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="watery" type="button" onClick="document.symptom.Cold.value='Cold'">
+</span></p>
 
 <!-- Health condition -->
 
