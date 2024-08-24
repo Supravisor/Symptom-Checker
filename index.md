@@ -30,7 +30,8 @@
   <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
   <input value="sweating excessively" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="temperature of 37C" type="button" onClick="document.symptom.Cold.value='Cold'">
-
+  <input value="temperature above 37C" type="button" onClick="document.symptom.Influenza.value='Influenza'">
+  <input value="temperature above 39C" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';document.symptom.Influenza.value='Influenza'">
 </span></p>
 
 <!-- Health condition -->
