@@ -34,6 +34,12 @@
   <input value="temperature above 39C" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';document.symptom.Influenza.value='Influenza'">
 </span></p>
 
+<p>Chest<span>
+  <input value="chest discomfort" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.AcuteBronchitis.value='Acute bronchitis'">
+</span></p>
+
+
+
 <!-- Health condition -->
 
   <input value="" name="AcuteBronchitis" size="12" type="text">
