@@ -27,12 +27,16 @@
   <input value="rash anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
   <input value="red skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
   <input value="shaking body" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
+  <input value="sweating excessively" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="temperature of 37C" type="button" onClick="document.symptom.Cold.value='Cold'">
 
 </span></p>
 
 <!-- Health condition -->
 
   <input value="" name="AcuteBronchitis" size="12" type="text">
+  <input value="" name="Cold" size="3" type="text">
   <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
   <input value="" name="Monkeypox" size="7" type="text">
