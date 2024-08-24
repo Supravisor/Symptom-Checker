@@ -40,6 +40,11 @@
   <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
 </span></p>
 
+<p>Digestive system<span>
+  <input value="constipation" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="diarrhoea" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.Influenza.value='Influenza'">
+  <input value="irritable bowel syndrome" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+</span></p>
 
 
 <!-- Health condition -->
