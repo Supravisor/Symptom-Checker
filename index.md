@@ -91,6 +91,15 @@
   <input value="tingling hands" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
 </span></p>
 
+<p>Head<span>
+  <input value="brain fog" name="brain fog" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="cognitive issues" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="flushed cheeks" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
+  <input value="headache" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.GlandularFever.value='Glandular fever';document.symptom.Cold.value='Cold';document.symptom.Influenza.value='Influenza'">
+  <input value="light headedness" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="migraines" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+</span></p>
+
 <!-- Health condition -->
 
   <input value="" name="AcuteBronchitis" size="12" type="text">
