@@ -64,6 +64,22 @@
   <input value="rash" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
 </span></p>
 
+<p>Feelings<span>
+  <input value="almost fainting" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="anxiety" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="chills" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';document.symptom.Influenza.value='Influenza';document.symptom.Monkeypox.value='Monkeypox'">
+  <input value="dizziness" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="fainting" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="fatigue" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.AcuteBronchitis.value='Acute bronchitis';document.symptom.Monkeypox.value='Monkeypox'">
+  <input value="feeling extremely cold" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="feeling extremely hot" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="loss of energy for longer than a few weeks" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.GlandularFever.value='Glandular fever'">
+  <input value="nausea" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="sleeping difficulty" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="tiredness" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.GlandularFever.value='Glandular fever';document.symptom.Cold.value='Cold'">
+  <input value="unwell for longer than a few weeks" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.GlandularFever.value='Glandular fever'">
+</span></p>
+
 <!-- Health condition -->
 
   <input value="" name="AcuteBronchitis" size="12" type="text">
