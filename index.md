@@ -80,6 +80,11 @@
   <input value="unwell for longer than a few weeks" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.GlandularFever.value='Glandular fever'">
 </span></p>
 
+<p>Feet<span>
+  <input value="tingling feet" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="walking long distance is difficult" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+</span></p>
+
 <!-- Health condition -->
 
   <input value="" name="AcuteBronchitis" size="12" type="text">
