@@ -88,7 +88,7 @@
 <p>Hands<span>
   <input value="lesion" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
   <input value="rash" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
-
+  <input value="tingling hands" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
 </span></p>
 
 <!-- Health condition -->
