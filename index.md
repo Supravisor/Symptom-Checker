@@ -66,6 +66,7 @@
 
 <p>Feelings<span>
 <input value="almost fainting" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+<input value="anxiety" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
 
 </span></p>
 
