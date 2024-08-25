@@ -82,7 +82,7 @@
 
 <p>Feet<span>
   <input value="tingling feet" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-
+  <input value="walking long distance is difficult" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
 </span></p>
 
 <!-- Health condition -->
