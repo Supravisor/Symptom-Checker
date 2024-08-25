@@ -59,6 +59,11 @@
   <input value="watery" type="button" onClick="document.symptom.Cold.value='Cold'">
 </span></p>
 
+<p>Face<span>
+  <input value="lesion" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
+  <input value="rash" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
+</span></p>
+
 <!-- Health condition -->
 
   <input value="" name="AcuteBronchitis" size="12" type="text">
