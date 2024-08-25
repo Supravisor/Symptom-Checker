@@ -76,8 +76,8 @@
   <input value="loss of energy for longer than a few weeks" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.GlandularFever.value='Glandular fever'">
   <input value="nausea" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="sleeping difficulty" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="tiredness" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.GlandularFever.value='Glandular fever';document.symptom.YouHaveACold.value='You have a cold'">
-
+  <input value="tiredness" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.GlandularFever.value='Glandular fever';document.symptom.Cold.value='Cold'">
+  <input value="unwell for longer than a few weeks" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.GlandularFever.value='Glandular fever'">
 </span></p>
 
 <!-- Health condition -->
