@@ -73,6 +73,7 @@
   <input value="fatigue" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.AcuteBronchitis.value='Acute bronchitis';document.symptom.Monkeypox.value='Monkeypox'">
   <input value="feeling extremely cold" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="feeling extremely hot" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="loss of energy for longer than a few weeks" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.GlandularFever.value='Glandular fever'">
 
 </span></p>
 
