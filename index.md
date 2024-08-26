@@ -117,6 +117,7 @@
   <input value="coughing a sticky mucus" type="button" onClick="document.symptom.Asthma.value='Asthma';document.symptom.AcuteBronchitis.value='Acute bronchitis'">
   <input value="coughing stomach acid" type="button" onClick="document.symptom.GastroesophagealRefluxDisease.value='Gastroesophageal reflux disease'">
   <input value="difficulty swallowing" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
+  <input value="dry cough lasting a few days" type="button" onClick="document.symptom.IrritantDust.value='Irritant (dust)';document.symptom.IrritantFumes.value='Irritant (fumes)';document.symptom.IrritantChemicals.value='Irritant (chemicals)';document.symptom.AirwayBlockage.value='Airway blockage'">
 
 </span></p>
 
