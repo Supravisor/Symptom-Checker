@@ -112,6 +112,7 @@
 <!-- Health condition -->
 
   <input value="" name="AcuteBronchitis" size="12" type="text">
+  <input value="" name="Bronchitis" size="5" type="text">
   <input value="" name="Cold" size="3" type="text">
   <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
