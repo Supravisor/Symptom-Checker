@@ -133,6 +133,7 @@
   <input value="" name="Influenza" size="6" type="text">
   <input value="" name="IrritantDust" size="8" type="text">
   <input value="" name="IrritantFumes" size="9" type="text">
+  <input value="" name="IrritantChemicals" size="12" type="text">
   <input value="" name="Monkeypox" size="7" type="text">
   <input value="" name="POTS" size="36" type="text">
   <input value="" name="Pneumonia" size="7" type="text">
