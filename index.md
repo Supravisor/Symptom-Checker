@@ -119,12 +119,13 @@
   <input value="difficulty swallowing" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="dry cough lasting a few days" type="button" onClick="document.symptom.IrritantDust.value='Irritant (dust)';document.symptom.IrritantFumes.value='Irritant (fumes)';document.symptom.IrritantChemicals.value='Irritant (chemicals)';document.symptom.AirwayBlockage.value='Airway blockage'">
   <input value="dry cough lasting a few weeks" type="button" onClick="document.symptom.ViralIllnesses.value='Viral illnesses';document.symptom.Bronchospasm.value='Bronchospasm';document.symptom.ViralIllnesses.value='Viral illnesses';document.symptom.ACEInhibitorsUsedToControlHighBloodPressure.value='ACE inhibitors (used to control high blood pressure)';document.symptom.Asthma.value='Asthma'">
+  <input value="enlarged tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
 
 </span></p>
 
 <!-- Health condition -->
 
-  <input value="" name="ACEInhibitorsUsedToControlHighBloodPressure" size="40" type="text">
+  <input value="" name="ACEInhibitorsUsedToControlHighBloodPressure" size="50" type="text">
   <input value="" name="AcuteBronchitis" size="12" type="text">
   <input value="" name="AirwayBlockage" size="12" type="text">
   <input value="" name="Asthma" size="3" type="text">
