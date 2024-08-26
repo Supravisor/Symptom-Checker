@@ -116,24 +116,40 @@
   <input value="coated tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="coughing a sticky mucus" type="button" onClick="document.symptom.Asthma.value='Asthma';document.symptom.AcuteBronchitis.value='Acute bronchitis'">
   <input value="coughing stomach acid" type="button" onClick="document.symptom.GastroesophagealRefluxDisease.value='Gastroesophageal reflux disease'">
+  <input value="difficulty swallowing" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
+  <input value="dry cough lasting a few days" type="button" onClick="document.symptom.IrritantDust.value='Irritant (dust)';document.symptom.IrritantFumes.value='Irritant (fumes)';document.symptom.IrritantChemicals.value='Irritant (chemicals)';document.symptom.AirwayBlockage.value='Airway blockage'">
+  <input value="dry cough lasting a few weeks" type="button" onClick="document.symptom.ViralIllnesses.value='Viral illnesses';document.symptom.Bronchospasm.value='Bronchospasm';document.symptom.ViralIllnesses.value='Viral illnesses';document.symptom.ACEInhibitorsUsedToControlHighBloodPressure.value='ACE inhibitors (used to control high blood pressure)';document.symptom.Asthma.value='Asthma'">
+  <input value="enlarged tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
+  <input value="shortness of breath" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.AcuteBronchitis.value='Acute bronchitis'">
+  <input value="smokers cough" type="button" onClick="document.symptom.LungDamage.value='Lung damage'">
+  <input value="tickly cough" type="button" onClick="document.symptom.Allergies.value='Allergies'">
 
 </span></p>
 
 <!-- Health condition -->
 
+  <input value="" name="ACEInhibitorsUsedToControlHighBloodPressure" size="47" type="text">
   <input value="" name="AcuteBronchitis" size="12" type="text">
+  <input value="" name="AirwayBlockage" size="12" type="text">
+  <input value="" name="Allergies" size="4" type="text">
   <input value="" name="Asthma" size="3" type="text">
   <input value="" name="Bronchitis" size="5" type="text">
+  <input value="" name="Bronchospasm" size="11" type="text">
   <input value="" name="ChronicObstructivePulmonaryDisease" size="34" type="text">
   <input value="" name="Cold" size="3" type="text">
-  <input value="" name="GastroesophagealRefluxDisease" size="24" type="text">
+  <input value="" name="GastroesophagealRefluxDisease" size="27" type="text">
   <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
+  <input value="" name="IrritantDust" size="8" type="text">
+  <input value="" name="IrritantFumes" size="10" type="text">
+  <input value="" name="IrritantChemicals" size="15" type="text">
+  <input value="" name="LungDamage" size="10" type="text">
   <input value="" name="Monkeypox" size="7" type="text">
   <input value="" name="POTS" size="36" type="text">
   <input value="" name="Pneumonia" size="7" type="text">
   <input value="" name="RheumaticFever" size="11" type="text">
   <input value="" name="ScarletFever" size="8" type="text">
   <input value="" name="Tuberculosis" size="8" type="text">
+  <input value="" name="ViralIllnesses" size="9" type="text">
 
 </form>
