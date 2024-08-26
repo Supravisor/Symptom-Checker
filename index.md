@@ -104,6 +104,11 @@
   <input value="heart palpitations" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
 </span></p>
 
+<p>Lungs<span>
+  <input value="phlegm cough" type="button" onClick="document.symptom.Bronchitis.value='Bronchitis';document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
+
+</span></p>
+
 <!-- Health condition -->
 
   <input value="" name="AcuteBronchitis" size="12" type="text">
