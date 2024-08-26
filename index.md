@@ -128,6 +128,7 @@
   <input value="" name="AirwayBlockage" size="12" type="text">
   <input value="" name="Asthma" size="3" type="text">
   <input value="" name="Bronchitis" size="5" type="text">
+  <input value="" name="Bronchospasm" size="9" type="text">
   <input value="" name="ChronicObstructivePulmonaryDisease" size="34" type="text">
   <input value="" name="Cold" size="3" type="text">
   <input value="" name="GastroesophagealRefluxDisease" size="27" type="text">
@@ -142,6 +143,6 @@
   <input value="" name="RheumaticFever" size="11" type="text">
   <input value="" name="ScarletFever" size="8" type="text">
   <input value="" name="Tuberculosis" size="8" type="text">
-  <input value="" name="ViralIllnesses" size="8" type="text">
+  <input value="" name="ViralIllnesses" size="9" type="text">
 
 </form>
