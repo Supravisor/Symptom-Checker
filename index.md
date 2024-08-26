@@ -112,6 +112,7 @@
 
 <p>Mouth<span>
   <input value="a dry cough" type="button" onClick="document.symptom.Cold.value='Cold';document.symptom.Influenza.value='Influenza'">
+  <input value="breathing difficulties" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
 
 </span></p>
 
@@ -119,7 +120,7 @@
 
   <input value="" name="AcuteBronchitis" size="12" type="text">
   <input value="" name="Bronchitis" size="5" type="text">
-  <input value="" name="ChronicObstructivePulmonaryDisease" size="32" type="text">
+  <input value="" name="ChronicObstructivePulmonaryDisease" size="35" type="text">
   <input value="" name="Cold" size="3" type="text">
   <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
