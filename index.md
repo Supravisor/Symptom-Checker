@@ -123,6 +123,7 @@
   <input value="shortness of breath" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.AcuteBronchitis.value='Acute bronchitis'">
   <input value="smokers cough" type="button" onClick="document.symptom.LungDamage.value='Lung damage'">
   <input value="tickly cough" type="button" onClick="document.symptom.Allergies.value='Allergies'">
+  <input value="vomiting" type="button" onClick="document.symptom.Influenza.value='Influenza'">
 
 </span></p>
 
@@ -136,7 +137,7 @@
   <input value="" name="Bronchitis" size="5" type="text">
   <input value="" name="Bronchospasm" size="11" type="text">
   <input value="" name="ChronicObstructivePulmonaryDisease" size="34" type="text">
-  <input value="" name="Cold" size="3" type="text">
+  <input value="" name="Cold" size="2" type="text">
   <input value="" name="GastroesophagealRefluxDisease" size="27" type="text">
   <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
