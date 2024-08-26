@@ -121,5 +121,6 @@
   <input value="" name="Pneumonia" size="7" type="text">
   <input value="" name="RheumaticFever" size="11" type="text">
   <input value="" name="ScarletFever" size="8" type="text">
+  <input value="" name="Tuberculosis" size="7" type="text">
 
 </form>
