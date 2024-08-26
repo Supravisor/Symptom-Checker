@@ -124,11 +124,12 @@
 
 <!-- Health condition -->
 
+  <input value="" name="ACEInhibitorsUsedToControlHighBloodPressure" size="40" type="text">
   <input value="" name="AcuteBronchitis" size="12" type="text">
   <input value="" name="AirwayBlockage" size="12" type="text">
   <input value="" name="Asthma" size="3" type="text">
   <input value="" name="Bronchitis" size="5" type="text">
-  <input value="" name="Bronchospasm" size="9" type="text">
+  <input value="" name="Bronchospasm" size="11" type="text">
   <input value="" name="ChronicObstructivePulmonaryDisease" size="34" type="text">
   <input value="" name="Cold" size="3" type="text">
   <input value="" name="GastroesophagealRefluxDisease" size="27" type="text">
