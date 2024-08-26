@@ -121,6 +121,7 @@
 <!-- Health condition -->
 
   <input value="" name="AcuteBronchitis" size="12" type="text">
+  <input value="" name="Asthma" size="3" type="text">
   <input value="" name="Bronchitis" size="5" type="text">
   <input value="" name="ChronicObstructivePulmonaryDisease" size="34" type="text">
   <input value="" name="Cold" size="3" type="text">
