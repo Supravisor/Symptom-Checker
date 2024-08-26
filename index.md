@@ -122,6 +122,7 @@
   <input value="enlarged tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="shortness of breath" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.AcuteBronchitis.value='Acute bronchitis'">
   <input value="smokers cough" type="button" onClick="document.symptom.LungDamage.value='Lung damage'">
+  <input value="tickly cough" type="button" onClick="document.symptom.Allergies.value='Allergies'">
 
 </span></p>
 
@@ -141,7 +142,7 @@
   <input value="" name="IrritantDust" size="8" type="text">
   <input value="" name="IrritantFumes" size="10" type="text">
   <input value="" name="IrritantChemicals" size="15" type="text">
-  <input value="" name="LungDamage" size="8" type="text">
+  <input value="" name="LungDamage" size="10" type="text">
   <input value="" name="Monkeypox" size="7" type="text">
   <input value="" name="POTS" size="36" type="text">
   <input value="" name="Pneumonia" size="7" type="text">
