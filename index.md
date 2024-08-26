@@ -104,9 +104,17 @@
   <input value="heart palpitations" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
 </span></p>
 
+<p>Lungs<span>
+  <input value="phlegm cough" type="button" onClick="document.symptom.Bronchitis.value='Bronchitis';document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
+  <input value="mucus cough" type="button" onClick="document.symptom.Bronchitis.value='Bronchitis';document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
+  <input value="sputnum cough" type="button" onClick="document.symptom.Bronchitis.value='Bronchitis';document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
+</span></p>
+
 <!-- Health condition -->
 
   <input value="" name="AcuteBronchitis" size="12" type="text">
+  <input value="" name="Bronchitis" size="5" type="text">
+  <input value="" name="ChronicObstructivePulmonaryDisease" size="29" type="text">
   <input value="" name="Cold" size="3" type="text">
   <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
@@ -115,5 +123,6 @@
   <input value="" name="Pneumonia" size="7" type="text">
   <input value="" name="RheumaticFever" size="11" type="text">
   <input value="" name="ScarletFever" size="8" type="text">
+  <input value="" name="Tuberculosis" size="8" type="text">
 
 </form>
