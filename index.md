@@ -110,11 +110,16 @@
   <input value="sputnum cough" type="button" onClick="document.symptom.Bronchitis.value='Bronchitis';document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
 </span></p>
 
+<p>Mouth<span>
+  <input value="a dry cough" type="button" onClick="document.symptom.Cold.value='Cold';document.symptom.Influenza.value='Influenza'">
+
+</span></p>
+
 <!-- Health condition -->
 
   <input value="" name="AcuteBronchitis" size="12" type="text">
   <input value="" name="Bronchitis" size="5" type="text">
-  <input value="" name="ChronicObstructivePulmonaryDisease" size="29" type="text">
+  <input value="" name="ChronicObstructivePulmonaryDisease" size="32" type="text">
   <input value="" name="Cold" size="3" type="text">
   <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
