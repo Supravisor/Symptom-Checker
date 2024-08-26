@@ -131,6 +131,7 @@
   <input value="" name="ACEInhibitorsUsedToControlHighBloodPressure" size="47" type="text">
   <input value="" name="AcuteBronchitis" size="12" type="text">
   <input value="" name="AirwayBlockage" size="12" type="text">
+  <input value="" name="Allergies" size="4" type="text">
   <input value="" name="Asthma" size="3" type="text">
   <input value="" name="Bronchitis" size="5" type="text">
   <input value="" name="Bronchospasm" size="11" type="text">
