@@ -124,12 +124,12 @@
   <input value="smokers cough" type="button" onClick="document.symptom.LungDamage.value='Lung damage'">
   <input value="tickly cough" type="button" onClick="document.symptom.Allergies.value='Allergies'">
   <input value="vomiting" type="button" onClick="document.symptom.Influenza.value='Influenza'">
-
+  <input value="wheezing" type="button" onClick="document.symptom.AcuteBronchitis.value='Acute bronchitis'">
 </span></p>
 
 <!-- Health condition -->
 
-  <input value="" name="ACEInhibitorsUsedToControlHighBloodPressure" size="47" type="text">
+  <input value="" name="ACEInhibitorsUsedToControlHighBloodPressure" size="46" type="text">
   <input value="" name="AcuteBronchitis" size="12" type="text">
   <input value="" name="AirwayBlockage" size="12" type="text">
   <input value="" name="Allergies" size="4" type="text">
@@ -137,14 +137,14 @@
   <input value="" name="Bronchitis" size="5" type="text">
   <input value="" name="Bronchospasm" size="11" type="text">
   <input value="" name="ChronicObstructivePulmonaryDisease" size="34" type="text">
-  <input value="" name="Cold" size="2" type="text">
+  <input value="" name="Cold" size="1" type="text">
   <input value="" name="GastroesophagealRefluxDisease" size="27" type="text">
   <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
   <input value="" name="IrritantDust" size="8" type="text">
   <input value="" name="IrritantFumes" size="10" type="text">
-  <input value="" name="IrritantChemicals" size="15" type="text">
-  <input value="" name="LungDamage" size="10" type="text">
+  <input value="" name="IrritantChemicals" size="14" type="text">
+  <input value="" name="LungDamage" size="9" type="text">
   <input value="" name="Monkeypox" size="7" type="text">
   <input value="" name="POTS" size="36" type="text">
   <input value="" name="Pneumonia" size="7" type="text">
