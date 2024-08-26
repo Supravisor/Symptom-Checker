@@ -116,6 +116,7 @@
   <input value="coated tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="coughing a sticky mucus" type="button" onClick="document.symptom.Asthma.value='Asthma';document.symptom.AcuteBronchitis.value='Acute bronchitis'">
   <input value="coughing stomach acid" type="button" onClick="document.symptom.GastroesophagealRefluxDisease.value='Gastroesophageal reflux disease'">
+  <input value="difficulty swallowing" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
 
 </span></p>
 
@@ -126,7 +127,7 @@
   <input value="" name="Bronchitis" size="5" type="text">
   <input value="" name="ChronicObstructivePulmonaryDisease" size="34" type="text">
   <input value="" name="Cold" size="3" type="text">
-  <input value="" name="GastroesophagealRefluxDisease" size="24" type="text">
+  <input value="" name="GastroesophagealRefluxDisease" size="27" type="text">
   <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
   <input value="" name="Monkeypox" size="7" type="text">
