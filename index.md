@@ -124,6 +124,7 @@
 <!-- Health condition -->
 
   <input value="" name="AcuteBronchitis" size="12" type="text">
+  <input value="" name="AirwayBlockage" size="10" type="text">
   <input value="" name="Asthma" size="3" type="text">
   <input value="" name="Bronchitis" size="5" type="text">
   <input value="" name="ChronicObstructivePulmonaryDisease" size="34" type="text">
@@ -132,8 +133,8 @@
   <input value="" name="GlandularFever" size="11" type="text">
   <input value="" name="Influenza" size="6" type="text">
   <input value="" name="IrritantDust" size="8" type="text">
-  <input value="" name="IrritantFumes" size="9" type="text">
-  <input value="" name="IrritantChemicals" size="12" type="text">
+  <input value="" name="IrritantFumes" size="10" type="text">
+  <input value="" name="IrritantChemicals" size="15" type="text">
   <input value="" name="Monkeypox" size="7" type="text">
   <input value="" name="POTS" size="36" type="text">
   <input value="" name="Pneumonia" size="7" type="text">
