@@ -129,6 +129,7 @@
 
 <p>Neck<span>
   <input value="pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
+  <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
 
 </span></p>
 
