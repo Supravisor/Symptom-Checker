@@ -127,6 +127,12 @@
   <input value="wheezing" type="button" onClick="document.symptom.AcuteBronchitis.value='Acute bronchitis'">
 </span></p>
 
+<p>Neck<span>
+  <input value="pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
+  <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
+  <input value="swollen glands" type="button" onClick="document.symptom.GlandularFever.value='Glandular fever'">
+</span></p>
+
 <!-- Health condition -->
 
   <input value="" name="ACEInhibitorsUsedToControlHighBloodPressure" size="46" type="text">
