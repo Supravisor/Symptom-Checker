@@ -134,7 +134,8 @@
 </span></p>
 
 <p>Nose<span>
-  <input value="blocked" type="button" onClick="document.symptom.YouHaveACold.value='You have a cold';document.symptom.Influenza.value='Influenza'">
+  <input value="blocked" type="button" onClick="document.symptom.Cold.value='Cold';document.symptom.Influenza.value='Influenza'">
+  <input value="runny" type="button" onClick="document.symptom.Cold.value='Cold';document.symptom.Influenza.value='Influenza'">
 
 </span></p>
 
