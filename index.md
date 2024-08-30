@@ -133,30 +133,35 @@
   <input value="swollen glands" type="button" onClick="document.symptom.GlandularFever.value='Glandular fever'">
 </span></p>
 
+<p>Nose<span>
+  <input value="blocked" type="button" onClick="document.symptom.YouHaveACold.value='You have a cold';document.symptom.Influenza.value='Influenza'">
+
+</span></p>
+
 <!-- Health condition -->
 
-  <input value="" name="ACEInhibitorsUsedToControlHighBloodPressure" size="46" type="text">
-  <input value="" name="AcuteBronchitis" size="12" type="text">
-  <input value="" name="AirwayBlockage" size="12" type="text">
-  <input value="" name="Allergies" size="4" type="text">
-  <input value="" name="Asthma" size="3" type="text">
-  <input value="" name="Bronchitis" size="5" type="text">
-  <input value="" name="Bronchospasm" size="11" type="text">
-  <input value="" name="ChronicObstructivePulmonaryDisease" size="34" type="text">
-  <input value="" name="Cold" size="1" type="text">
-  <input value="" name="GastroesophagealRefluxDisease" size="27" type="text">
-  <input value="" name="GlandularFever" size="11" type="text">
-  <input value="" name="Influenza" size="6" type="text">
-  <input value="" name="IrritantDust" size="8" type="text">
-  <input value="" name="IrritantFumes" size="10" type="text">
-  <input value="" name="IrritantChemicals" size="14" type="text">
-  <input value="" name="LungDamage" size="9" type="text">
-  <input value="" name="Monkeypox" size="7" type="text">
-  <input value="" name="POTS" size="36" type="text">
-  <input value="" name="Pneumonia" size="7" type="text">
-  <input value="" name="RheumaticFever" size="11" type="text">
-  <input value="" name="ScarletFever" size="8" type="text">
-  <input value="" name="Tuberculosis" size="8" type="text">
-  <input value="" name="ViralIllnesses" size="9" type="text">
+  <input value="" type="button" name="ACEInhibitorsUsedToControlHighBloodPressure" />
+  <input value="" type="button" name="AcuteBronchitis" />
+  <input value="" type="button" name="AirwayBlockage" />
+  <input value="" type="button" name="Allergies" />
+  <input value="" type="button" name="Asthma" />
+  <input value="" type="button" name="Bronchitis" />
+  <input value="" type="button" name="Bronchospasm" />
+  <input value="" type="button" name="ChronicObstructivePulmonaryDisease" />
+  <input value="" type="button" name="Cold" />
+  <input value="" type="button" name="GastroesophagealRefluxDisease" />
+  <input value="" type="button" name="GlandularFever" />
+  <input value="" type="button" name="Influenza" />
+  <input value="" type="button" name="IrritantDust" />
+  <input value="" type="button" name="IrritantFumes" />
+  <input value="" type="button" name="IrritantChemicals" />
+  <input value="" type="button" type="button" name="LungDamage" />
+  <input value="" type="button" name="Monkeypox" />
+  <input value="" type="button" name="POTS" />
+  <input value="" type="button" name="Pneumonia" />
+  <input value="" type="button" name="RheumaticFever" />
+  <input value="" type="button" name="ScarletFever" />
+  <input value="" type="button" name="Tuberculosis" />
+  <input value="" type="button" name="ViralIllnesses" />
 
 </form>
