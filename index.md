@@ -140,6 +140,11 @@
   <input value="stuffy" type="button" onClick="document.symptom.Cold.value='Cold';document.symptom.Influenza.value='Influenza'">
 </span></p>
 
+<p>Stomach<span>
+  <input value="aches" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.Influenza.value='Influenza'">
+
+</span></p>
+
 <!-- Health condition -->
 
   <input value="" type="button" name="ACEInhibitorsUsedToControlHighBloodPressure" />
