@@ -150,7 +150,7 @@
 </span></p>
 
 <p>Throat<span>
-<input value="phlegm cough" type="button" onClick="document.sympton.AcuteBronchitis='Acute Bronchitis';document.symptom.ViralIllnesses.value='Viral Illnesses';document.symptom.Allergies.value='Allergies';">
+<input value="phlegm cough" type="button" onClick="document.sympton.AcuteBronchitis.value='Acute Bronchitis';document.symptom.ViralIllnesses.value='Viral Illnesses';document.symptom.Allergies.value='Allergies';">
 
 </span></p>
 
