@@ -149,6 +149,11 @@
   <input value="upset" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.Influenza.value='Influenza'">
 </span></p>
 
+<p>Throat<span>
+<input value="phlegm cough" type="button" onClick="document.sympton.AcuteBronchitis='Acute Bronchitis';document.symptom.ViralIllnesses.value='Viral Illnesses';document.symptom.Allergies.value='Allergies';">
+
+</span></p>
+
 <!-- Health condition -->
 
   <input value="" type="button" name="ACEInhibitorsUsedToControlHighBloodPressure" />
