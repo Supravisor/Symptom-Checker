@@ -105,8 +105,8 @@
 </span></p>
 
 <p>Lungs<span>
-  <input value="phlegm cough" type="button" onClick="document.symptom.Bronchitis.value='Bronchitis';document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
-  <input value="mucus cough" type="button" onClick="document.symptom.Bronchitis.value='Bronchitis';document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
+  <input value="phlegm cough" type="button" onClick="showTime([bronchitis]);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
+  <input value="mucus cough" type="button" onClick="showTime([bronchitis]);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
   <input value="sputnum cough" type="button" onClick="document.symptom.Bronchitis.value='Bronchitis';document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
 </span></p>
 
