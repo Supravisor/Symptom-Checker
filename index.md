@@ -19,7 +19,7 @@
 <p>Body<span>
   <input value="body aches" type="button" onClick="document.symptom.Influenza.value='Influenza';document.symptom.Monkeypox.value='Monkeypox'">
   <input value="body pains" type="button" onClick="document.symptom.Influenza.value='Influenza'">
-  <input value="fever" type="button" onClick="document.symptom.GlandularFever.value='Glandular fever';showTime[AcuteBronchitis]);document.symptom.Influenza.value='Influenza'">
+  <input value="fever" type="button" onClick="document.symptom.GlandularFever.value='Glandular fever';showTime([acuteBronchitis]);document.symptom.Influenza.value='Influenza'">
   <input value="high fever" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';document.symptom.Influenza.value='Influenza'">
   <input value="joint pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';document.symptom.GlandularFever.value='Glandular fever'">
   <input value="lesion anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
@@ -35,8 +35,8 @@
 </span></p>
 
 <p>Chest<span>
-  <input value="chest discomfort" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime9[AcuteBronchitis]);">
-  <input value="chest pain" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([AcuteBronchitis]);">
+  <input value="chest discomfort" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([acuteBronchitis]);">
+  <input value="chest pain" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([acuteBronchitis]);">
   <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
 </span></p>
 
@@ -70,7 +70,7 @@
   <input value="chills" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';document.symptom.Influenza.value='Influenza';document.symptom.Monkeypox.value='Monkeypox'">
   <input value="dizziness" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="fainting" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="fatigue" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.AcuteBronchitis.value='Acute bronchitis';document.symptom.Monkeypox.value='Monkeypox'">
+  <input value="fatigue" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([acuteBronchitis]);document.symptom.Monkeypox.value='Monkeypox'">
   <input value="feeling extremely cold" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="feeling extremely hot" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="loss of energy for longer than a few weeks" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.GlandularFever.value='Glandular fever'">
@@ -114,17 +114,17 @@
   <input value="a dry cough" type="button" onClick="document.symptom.Cold.value='Cold';document.symptom.Influenza.value='Influenza'">
   <input value="breathing difficulties" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="coated tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
-  <input value="coughing a sticky mucus" type="button" onClick="document.symptom.Asthma.value='Asthma';document.symptom.AcuteBronchitis.value='Acute bronchitis'">
+  <input value="coughing a sticky mucus" type="button" onClick="document.symptom.Asthma.value='Asthma';showTime([Acute bronchitis]);">
   <input value="coughing stomach acid" type="button" onClick="document.symptom.GastroesophagealRefluxDisease.value='Gastroesophageal reflux disease'">
   <input value="difficulty swallowing" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="dry cough lasting a few days" type="button" onClick="document.symptom.IrritantDust.value='Irritant (dust)';document.symptom.IrritantFumes.value='Irritant (fumes)';document.symptom.IrritantChemicals.value='Irritant (chemicals)';document.symptom.AirwayBlockage.value='Airway blockage'">
   <input value="dry cough lasting a few weeks" type="button" onClick="document.symptom.ViralIllnesses.value='Viral illnesses';document.symptom.Bronchospasm.value='Bronchospasm';document.symptom.ViralIllnesses.value='Viral illnesses';document.symptom.ACEInhibitorsUsedToControlHighBloodPressure.value='ACE inhibitors (used to control high blood pressure)';document.symptom.Asthma.value='Asthma'">
   <input value="enlarged tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
-  <input value="shortness of breath" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.AcuteBronchitis.value='Acute bronchitis'">
+  <input value="shortness of breath" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([AcuteBronchitis]);">
   <input value="smokers cough" type="button" onClick="document.symptom.LungDamage.value='Lung damage'">
   <input value="tickly cough" type="button" onClick="document.symptom.Allergies.value='Allergies'">
   <input value="vomiting" type="button" onClick="document.symptom.Influenza.value='Influenza'">
-  <input value="wheezing" type="button" onClick="document.symptom.AcuteBronchitis.value='Acute bronchitis'">
+  <input value="wheezing" type="button" onClick="showTime([Acute bronchitis]);">
 </span></p>
 
 <p>Neck<span>
