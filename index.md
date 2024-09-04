@@ -152,7 +152,8 @@
 <p>Throat<span>
   <input value="mucus cough" type="button" onClick="document.symptom.AcuteBronchitis.value='Acute Bronchitis';document.symptom.ViralIllnesses.value='Viral Illnesses';document.symptom.Allergies.value='Allergies';">
   <input value="phlegm cough" type="button" onClick="document.symptom.AcuteBronchitis.value='Acute Bronchitis';document.symptom.ViralIllnesses.value='Viral Illnesses';document.symptom.Allergies.value='Allergies';">
-
+  <input value="scratchy" type="button" onClick="document.symptom.Cold.value='Cold'">
+  
 </span></p>
 
 <!-- Health condition -->
