@@ -184,3 +184,5 @@
   <input value="" type="button" name="ViralIllnesses" />
 
 </form>
+
+<script src="script.js"></script>
