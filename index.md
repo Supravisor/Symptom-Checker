@@ -19,7 +19,7 @@
 <p>Body<span>
   <input value="body aches" type="button" onClick="document.symptom.Influenza.value='Influenza';document.symptom.Monkeypox.value='Monkeypox'">
   <input value="body pains" type="button" onClick="document.symptom.Influenza.value='Influenza'">
-  <input value="fever" type="button" onClick="document.symptom.GlandularFever.value='Glandular fever';document.symptom.AcuteBronchitis.value='Acute bronchitis';document.symptom.Influenza.value='Influenza'">
+  <input value="fever" type="button" onClick="document.symptom.GlandularFever.value='Glandular fever';showTime9[AcuteBronchitis]);document.symptom.Influenza.value='Influenza'">
   <input value="high fever" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';document.symptom.Influenza.value='Influenza'">
   <input value="joint pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';document.symptom.GlandularFever.value='Glandular fever'">
   <input value="lesion anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
