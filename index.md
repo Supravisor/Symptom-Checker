@@ -105,9 +105,9 @@
 </span></p>
 
 <p>Lungs<span>
-  <input value="phlegm cough" type="button" onClick="showTime([bronchitis]);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
-  <input value="mucus cough" type="button" onClick="showTime([bronchitis]);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
-  <input value="sputnum cough" type="button" onClick="showTime([bronchitis]);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
+  <input value="phlegm cough" type="button" onClick="showTime([bronchitis, chronicObstructivePulmonaryDisease]);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';">
+  <input value="mucus cough" type="button" onClick="showTime([bronchitis]);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';showTime([chronicObstructivePulmonaryDisease]);">
+  <input value="sputnum cough" type="button" onClick="showTime([bronchitis]);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';showTime([chronicObstructivePulmonaryDisease]);">
 </span></p>
 
 <p>Mouth<span>
@@ -166,7 +166,7 @@
   <input value="Asthma" class="media-item" id="Asthma" type="button" name="Asthma" />
   <input value="Bronchitis" class="media-item" id="Bronchitis" type="button" name="Bronchitis" />
   <input value="Bronchospasm" class="media-item" id="Bronchospasm" type="button" name="Bronchospasm" />
-  <input value="" type="button" name="ChronicObstructivePulmonaryDisease" />
+  <input value="Chronic Obstructive Pulmonary Disease" class="media-item" id="ChronicObstructivePulmonaryDisease" type="button" name="ChronicObstructivePulmonaryDisease" />
   <input value="" type="button" name="Cold" />
   <input value="" type="button" name="GastroesophagealRefluxDisease" />
   <input value="" type="button" name="GlandularFever" />
