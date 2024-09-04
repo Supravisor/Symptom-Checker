@@ -105,9 +105,9 @@
 </span></p>
 
 <p>Lungs<span>
-  <input value="phlegm cough" type="button" onClick="document.symptom.Bronchitis.value='Bronchitis';document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
-  <input value="mucus cough" type="button" onClick="document.symptom.Bronchitis.value='Bronchitis';document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
-  <input value="sputnum cough" type="button" onClick="document.symptom.Bronchitis.value='Bronchitis';document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
+  <input value="phlegm cough" type="button" onClick="showTime([bronchitis]);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
+  <input value="mucus cough" type="button" onClick="showTime([bronchitis]);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
+  <input value="sputnum cough" type="button" onClick="showTime([bronchitis]);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';document.symptom.ChronicObstructivePulmonaryDisease.value='Chronic obstructive pulmonary disease'">
 </span></p>
 
 <p>Mouth<span>
@@ -164,7 +164,7 @@
   <input value="Airway Blockage" class="media-item" id="AirwayBlockage" type="button" name="AirwayBlockage" />
   <input value="Allergies" class="media-item" id="Allergies" type="button" name="Allergies" />
   <input value="Asthma" class="media-item" id="Asthma" type="button" name="Asthma" />
-  <input value="" type="button" name="Bronchitis" />
+  <input value="Bronchitis" class="media-item" id="Bronchitis" type="button" name="Bronchitis" />
   <input value="" type="button" name="Bronchospasm" />
   <input value="" type="button" name="ChronicObstructivePulmonaryDisease" />
   <input value="" type="button" name="Cold" />
