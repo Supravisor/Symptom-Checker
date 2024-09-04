@@ -114,7 +114,7 @@
   <input value="a dry cough" type="button" onClick="document.symptom.Cold.value='Cold';document.symptom.Influenza.value='Influenza'">
   <input value="breathing difficulties" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="coated tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
-  <input value="coughing a sticky mucus" type="button" onClick="document.symptom.Asthma.value='Asthma';showTime([acute bronchitis]);">
+  <input value="coughing a sticky mucus" type="button" onClick="document.symptom.Asthma.value='Asthma';showTime([acuteBronchitis]);">
   <input value="coughing stomach acid" type="button" onClick="document.symptom.GastroesophagealRefluxDisease.value='Gastroesophageal reflux disease'">
   <input value="difficulty swallowing" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="dry cough lasting a few days" type="button" onClick="document.symptom.IrritantDust.value='Irritant (dust)';document.symptom.IrritantFumes.value='Irritant (fumes)';document.symptom.IrritantChemicals.value='Irritant (chemicals)';document.symptom.AirwayBlockage.value='Airway blockage'">
@@ -124,7 +124,7 @@
   <input value="smokers cough" type="button" onClick="document.symptom.LungDamage.value='Lung damage'">
   <input value="tickly cough" type="button" onClick="document.symptom.Allergies.value='Allergies'">
   <input value="vomiting" type="button" onClick="document.symptom.Influenza.value='Influenza'">
-  <input value="wheezing" type="button" onClick="showTime([acute bronchitis]);">
+  <input value="wheezing" type="button" onClick="showTime([acuteBronchitis]);">
 </span></p>
 
 <p>Neck<span>
