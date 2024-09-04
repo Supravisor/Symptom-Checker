@@ -4,3 +4,4 @@ function showTime(arg) {
 }
 
 const acuteBronchitis = document.getElementById("AcuteBronchitis");
+const aCEInhibitors = document.getElementById("ACEInhibitors");
