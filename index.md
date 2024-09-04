@@ -151,10 +151,10 @@
 
 <p>Throat<span>
   <input value="mucus cough" type="button" onClick="showTime([acuteBronchitis]);document.symptom.ViralIllnesses.value='Viral Illnesses';showTime([allergies]);">
-  <input value="phlegm cough" type="button" onClick="showTime([acuteBronchitis]);document.symptom.ViralIllnesses.value='Viral Illnesses';document.symptom.Allergies.value='Allergies';">
+  <input value="phlegm cough" type="button" onClick="showTime([acuteBronchitis]);document.symptom.ViralIllnesses.value='Viral Illnesses';showTime([allergies]);">
   <input value="scratchy" type="button" onClick="document.symptom.Cold.value='Cold'">
   <input value="soreness lasting a few days" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';document.symptom.ScarletFever.value='Scarlet fever';document.symptom.GlandularFever.value='Glandular fever';document.symptom.Cold.value='Cold';document.symptom.Influenza.value='Influenza'">
-  <input value="sputnum cough" type="button" onClick="showTime([acuteBronchitis]);document.symptom.Allergies.value='Allergies';document.symptom.Influenza.value='Influenza';document.symptom.ViralIllnesses.value='Viral Illnesses';">
+  <input value="sputnum cough" type="button" onClick="showTime([acuteBronchitis]);showTime([allergies]);document.symptom.Influenza.value='Influenza';document.symptom.ViralIllnesses.value='Viral Illnesses';">
 </span></p>
 
 <!-- Health condition -->
@@ -162,7 +162,7 @@
   <input value="ACE Inhibitors (used to control high blood pressure)" class="media-item" id="ACEInhibitors" type="button" name="ACEInhibitors" />
   <input value="Acute Bronchitis" class="media-item" id="AcuteBronchitis" type="button" name="AcuteBronchitis" />
   <input value="Airway Blockage" class="media-item" id="AirwayBlockage" type="button" name="AirwayBlockage" />
-  <input value="" type="button" name="Allergies" />
+  <input value="Allergies" class="media-item" id="Allergies" type="button" name="Allergies" />
   <input value="" type="button" name="Asthma" />
   <input value="" type="button" name="Bronchitis" />
   <input value="" type="button" name="Bronchospasm" />
