@@ -159,7 +159,7 @@
 
 <!-- Health condition -->
 
-  <input value="" type="button" name="ACEInhibitorsUsedToControlHighBloodPressure" />
+  <input value="ACEInhibitorsUsedToControlHighBloodPressure" class="media-item" id="ACEInhibitorsUsedToControlHighBloodPressure" type="button" name="ACEInhibitorsUsedToControlHighBloodPressure" />
   <input value="Acute Bronchitis" class="media-item" id="AcuteBronchitis" type="button" name="AcuteBronchitis" />
   <input value="" type="button" name="AirwayBlockage" />
   <input value="" type="button" name="Allergies" />
