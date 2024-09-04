@@ -163,7 +163,7 @@
   <input value="Acute Bronchitis" class="media-item" id="AcuteBronchitis" type="button" name="AcuteBronchitis" />
   <input value="Airway Blockage" class="media-item" id="AirwayBlockage" type="button" name="AirwayBlockage" />
   <input value="Allergies" class="media-item" id="Allergies" type="button" name="Allergies" />
-  <input value="" type="button" name="Asthma" />
+  <input value="Asthma" class="media-item" id="Asthma" type="button" name="Asthma" />
   <input value="" type="button" name="Bronchitis" />
   <input value="" type="button" name="Bronchospasm" />
   <input value="" type="button" name="ChronicObstructivePulmonaryDisease" />
