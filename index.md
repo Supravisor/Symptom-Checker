@@ -153,7 +153,8 @@
   <input value="mucus cough" type="button" onClick="document.symptom.AcuteBronchitis.value='Acute Bronchitis';document.symptom.ViralIllnesses.value='Viral Illnesses';document.symptom.Allergies.value='Allergies';">
   <input value="phlegm cough" type="button" onClick="document.symptom.AcuteBronchitis.value='Acute Bronchitis';document.symptom.ViralIllnesses.value='Viral Illnesses';document.symptom.Allergies.value='Allergies';">
   <input value="scratchy" type="button" onClick="document.symptom.Cold.value='Cold'">
-  
+  <input value="soreness lasting a few days" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';document.symptom.ScarletFever.value='Scarlet fever';document.symptom.GlandularFever.value='Glandular fever';document.symptom.Cold.value='Cold';document.symptom.Influenza.value='Influenza'">
+
 </span></p>
 
 <!-- Health condition -->
