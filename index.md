@@ -36,7 +36,7 @@
 
 <p>Chest<span>
   <input value="chest discomfort" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.AcuteBronchitis.value='Acute bronchitis'">
-  <input value="chest pain" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.AcuteBronchitis.value='Acute bronchitis'">
+  <input value="chest pain" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([AcuteBronchitis]]);">
   <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
 </span></p>
 
