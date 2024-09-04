@@ -165,7 +165,7 @@
   <input value="Allergies" class="media-item" id="Allergies" type="button" name="Allergies" />
   <input value="Asthma" class="media-item" id="Asthma" type="button" name="Asthma" />
   <input value="Bronchitis" class="media-item" id="Bronchitis" type="button" name="Bronchitis" />
-  <input value="" type="button" name="Bronchospasm" />
+  <input value="Bronchospasm" class="media-item" id="Bronchospasm" type="button" name="Bronchospasm" />
   <input value="" type="button" name="ChronicObstructivePulmonaryDisease" />
   <input value="" type="button" name="Cold" />
   <input value="" type="button" name="GastroesophagealRefluxDisease" />
