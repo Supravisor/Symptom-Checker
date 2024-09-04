@@ -8,3 +8,4 @@ const aCEInhibitors = document.getElementById("ACEInhibitors");
 const airwayBlockage = document.getElementById("AirwayBlockage");
 const allergies = document.getElementById("Allergies");
 const asthma = document.getElementById("Asthma");
+const bronchitis document.getElementById("Bronchitis");
