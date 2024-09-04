@@ -5,4 +5,6 @@ function showTime(arg) {
 
 const acuteBronchitis = document.getElementById("AcuteBronchitis");
 const aCEInhibitors = document.getElementById("ACEInhibitors");
-const airwayBlockage = document.getElementBy("AirwayBlockage");
+const airwayBlockage = document.getElementById("AirwayBlockage");
+const allergies = document.getElementById("Allergies");
+const asthma = document.getElementById("Asthma");
