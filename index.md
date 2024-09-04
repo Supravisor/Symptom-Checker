@@ -114,17 +114,17 @@
   <input value="a dry cough" type="button" onClick="document.symptom.Cold.value='Cold';document.symptom.Influenza.value='Influenza'">
   <input value="breathing difficulties" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="coated tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
-  <input value="coughing a sticky mucus" type="button" onClick="document.symptom.Asthma.value='Asthma';showTime([Acute bronchitis]);">
+  <input value="coughing a sticky mucus" type="button" onClick="document.symptom.Asthma.value='Asthma';showTime([acuteBronchitis]);">
   <input value="coughing stomach acid" type="button" onClick="document.symptom.GastroesophagealRefluxDisease.value='Gastroesophageal reflux disease'">
   <input value="difficulty swallowing" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="dry cough lasting a few days" type="button" onClick="document.symptom.IrritantDust.value='Irritant (dust)';document.symptom.IrritantFumes.value='Irritant (fumes)';document.symptom.IrritantChemicals.value='Irritant (chemicals)';document.symptom.AirwayBlockage.value='Airway blockage'">
   <input value="dry cough lasting a few weeks" type="button" onClick="document.symptom.ViralIllnesses.value='Viral illnesses';document.symptom.Bronchospasm.value='Bronchospasm';document.symptom.ViralIllnesses.value='Viral illnesses';document.symptom.ACEInhibitorsUsedToControlHighBloodPressure.value='ACE inhibitors (used to control high blood pressure)';document.symptom.Asthma.value='Asthma'">
   <input value="enlarged tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
-  <input value="shortness of breath" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([AcuteBronchitis]);">
+  <input value="shortness of breath" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([acuteBronchitis]);">
   <input value="smokers cough" type="button" onClick="document.symptom.LungDamage.value='Lung damage'">
   <input value="tickly cough" type="button" onClick="document.symptom.Allergies.value='Allergies'">
   <input value="vomiting" type="button" onClick="document.symptom.Influenza.value='Influenza'">
-  <input value="wheezing" type="button" onClick="showTime([Acute bronchitis]);">
+  <input value="wheezing" type="button" onClick="showTime([acuteBronchitis]);">
 </span></p>
 
 <p>Neck<span>
@@ -150,17 +150,17 @@
 </span></p>
 
 <p>Throat<span>
-  <input value="mucus cough" type="button" onClick="document.symptom.AcuteBronchitis.value='Acute Bronchitis';document.symptom.ViralIllnesses.value='Viral Illnesses';document.symptom.Allergies.value='Allergies';">
-  <input value="phlegm cough" type="button" onClick="document.symptom.AcuteBronchitis.value='Acute Bronchitis';document.symptom.ViralIllnesses.value='Viral Illnesses';document.symptom.Allergies.value='Allergies';">
+  <input value="mucus cough" type="button" onClick="showTime([acuteBronchitis]);document.symptom.ViralIllnesses.value='Viral Illnesses';document.symptom.Allergies.value='Allergies';">
+  <input value="phlegm cough" type="button" onClick="showTime([acuteBronchitis]);document.symptom.ViralIllnesses.value='Viral Illnesses';document.symptom.Allergies.value='Allergies';">
   <input value="scratchy" type="button" onClick="document.symptom.Cold.value='Cold'">
   <input value="soreness lasting a few days" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';document.symptom.ScarletFever.value='Scarlet fever';document.symptom.GlandularFever.value='Glandular fever';document.symptom.Cold.value='Cold';document.symptom.Influenza.value='Influenza'">
-  <input value="sputnum cough" type="button" onClick="document.symptom.Influenza.value='AcuteBronchitis';document.symptom.Allergies.value='Allergies';document.symptom.Influenza.value='Influenza';document.symptom.ViralIllnesses.value='Viral Illnesses';">
+  <input value="sputnum cough" type="button" onClick="showTime([acuteBronchitis]);document.symptom.Allergies.value='Allergies';document.symptom.Influenza.value='Influenza';document.symptom.ViralIllnesses.value='Viral Illnesses';">
 </span></p>
 
 <!-- Health condition -->
 
   <input value="" type="button" name="ACEInhibitorsUsedToControlHighBloodPressure" />
-  <input value="AcuteBronchitis" class="media-item" id="AcuteBronchitis" type="button" name="AcuteBronchitis" />
+  <input value="Acute Bronchitis" class="media-item" id="AcuteBronchitis" type="button" name="AcuteBronchitis" />
   <input value="" type="button" name="AirwayBlockage" />
   <input value="" type="button" name="Allergies" />
   <input value="" type="button" name="Asthma" />
