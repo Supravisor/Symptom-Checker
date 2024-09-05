@@ -117,7 +117,7 @@
   <input value="coughing a sticky mucus" type="button" onClick="showTime([acuteBronchitis, asthma]);">
   <input value="coughing stomach acid" type="button" onClick="document.symptom.GastroesophagealRefluxDisease.value='Gastroesophageal reflux disease'">
   <input value="difficulty swallowing" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
-  <input value="dry cough lasting a few days" type="button" onClick="document.symptom.IrritantDust.value='Irritant (dust)';document.symptom.IrritantFumes.value='Irritant (fumes)';document.symptom.IrritantChemicals.value='Irritant (chemicals)';showTime([AirwayBlockage]);">
+  <input value="dry cough lasting a few days" type="button" onClick="document.symptom.IrritantDust.value='Irritant (dust)';document.symptom.IrritantFumes.value='Irritant (fumes)';document.symptom.IrritantChemicals.value='Irritant (chemicals)';showTime([airwayBlockage]);">
   <input value="dry cough lasting a few weeks" type="button" onClick="document.symptom.ViralIllnesses.value='Viral illnesses';showTime([bronchospasm]);document.symptom.ViralIllnesses.value='Viral illnesses';showTime([ACEInhibitors]);document.symptom.Asthma.value='Asthma'">
   <input value="enlarged tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="shortness of breath" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([acuteBronchitis]);">
