@@ -111,7 +111,7 @@
 </span></p>
 
 <p>Mouth<span>
-  <input value="a dry cough" type="button" onClick="document.symptom.Cold.value='Cold';document.symptom.Influenza.value='Influenza'">
+  <input value="a dry cough" type="button" onClick="showTime([cold]);document.symptom.Influenza.value='Influenza'">
   <input value="breathing difficulties" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="coated tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="coughing a sticky mucus" type="button" onClick="showTime([acuteBronchitis, asthma]);">
