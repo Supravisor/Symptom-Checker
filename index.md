@@ -167,7 +167,7 @@
   <input value="Bronchitis" class="media-item" id="Bronchitis" type="button" name="Bronchitis" />
   <input value="Bronchospasm" class="media-item" id="Bronchospasm" type="button" name="Bronchospasm" />
   <input value="Chronic Obstructive Pulmonary Disease" class="media-item" id="ChronicObstructivePulmonaryDisease" type="button" name="ChronicObstructivePulmonaryDisease" />
-  <input value="" type="button" name="Cold" />
+  <input value="Cold" class="media-item" id="Cold" type="button" name="Cold" />
   <input value="" type="button" name="GastroesophagealRefluxDisease" />
   <input value="" type="button" name="GlandularFever" />
   <input value="" type="button" name="Influenza" />
