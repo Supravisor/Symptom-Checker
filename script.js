@@ -11,3 +11,4 @@ const asthma = document.getElementById("Asthma");
 const bronchitis = document.getElementById("Bronchitis");
 const bronchospasm = document.getElementById("Bronchospasm");
 const chronicObstructivePulmonaryDisease = document.getElementById("ChronicObstructivePulmonaryDisease");
+const cold = document.getElementById("Cold");
