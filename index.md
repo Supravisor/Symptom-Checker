@@ -169,7 +169,7 @@
   <input value="Chronic Obstructive Pulmonary Disease" class="media-item" id="ChronicObstructivePulmonaryDisease" type="button" name="ChronicObstructivePulmonaryDisease" />
   <input value="Cold" class="media-item" id="Cold" type="button" name="Cold" />
   <input value="Gastroesophageal Reflux Disease" class="media-item" id="GastroesophagealRefluxDisease" type="button" name="GastroesophagealRefluxDisease" />
-  <input value="" type="button" name="GlandularFever" />
+  <input value="Glandular Fever" class="media-item" id="GlandularFever" type="button" name="GlandularFever" />
   <input value="" type="button" name="Influenza" />
   <input value="" type="button" name="IrritantDust" />
   <input value="" type="button" name="IrritantFumes" />
