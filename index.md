@@ -21,7 +21,7 @@
   <input value="body pains" type="button" onClick="document.symptom.Influenza.value='Influenza'">
   <input value="fever" type="button" onClick="showTime([acuteBronchitis, glandularFever]);document.symptom.Influenza.value='Influenza'">
   <input value="high fever" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';document.symptom.Influenza.value='Influenza'">
-  <input value="joint pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';document.symptom.GlandularFever.value='Glandular fever'">
+  <input value="joint pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime([glandularFever]);">
   <input value="lesion anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
   <input value="muscle twitches" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="rash anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
