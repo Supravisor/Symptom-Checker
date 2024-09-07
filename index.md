@@ -115,7 +115,7 @@
   <input value="breathing difficulties" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="coated tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="coughing a sticky mucus" type="button" onClick="showTime([acuteBronchitis, asthma]);">
-  <input value="coughing stomach acid" type="button" onClick="document.symptom.GastroesophagealRefluxDisease.value='Gastroesophageal reflux disease'">
+  <input value="coughing stomach acid" type="button" onClick="showTime([gastroesophagealRefluxDisease])">
   <input value="difficulty swallowing" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="dry cough lasting a few days" type="button" onClick="document.symptom.IrritantDust.value='Irritant (dust)';document.symptom.IrritantFumes.value='Irritant (fumes)';document.symptom.IrritantChemicals.value='Irritant (chemicals)';showTime([airwayBlockage]);">
   <input value="dry cough lasting a few weeks" type="button" onClick="document.symptom.ViralIllnesses.value='Viral illnesses';showTime([bronchospasm]);document.symptom.ViralIllnesses.value='Viral illnesses';showTime([ACEInhibitors]);document.symptom.Asthma.value='Asthma'">
@@ -168,7 +168,7 @@
   <input value="Bronchospasm" class="media-item" id="Bronchospasm" type="button" name="Bronchospasm" />
   <input value="Chronic Obstructive Pulmonary Disease" class="media-item" id="ChronicObstructivePulmonaryDisease" type="button" name="ChronicObstructivePulmonaryDisease" />
   <input value="Cold" class="media-item" id="Cold" type="button" name="Cold" />
-  <input value="" type="button" name="GastroesophagealRefluxDisease" />
+  <input value="Gastroesophageal Reflux Disease" class="media-item" id="GastroesophagealRefluxDisease" type="button" name="GastroesophagealRefluxDisease" />
   <input value="" type="button" name="GlandularFever" />
   <input value="" type="button" name="Influenza" />
   <input value="" type="button" name="IrritantDust" />
