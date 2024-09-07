@@ -144,7 +144,7 @@
   <input value="aches" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.Influenza.value='Influenza'">
   <input value="bloating" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="discomfort" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.Influenza.value='Influenza'">
-  <input value="loss of appetite" type="button" onClick="document.symptom.GlandularFever.value='Glandular fever'">
+  <input value="loss of appetite" type="button" onClick="showTime([glandularFever]);">
   <input value="pains" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.Influenza.value='Influenza'">
   <input value="upset" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';document.symptom.Influenza.value='Influenza'">
 </span></p>
