@@ -13,3 +13,4 @@ const bronchospasm = document.getElementById("Bronchospasm");
 const chronicObstructivePulmonaryDisease = document.getElementById("ChronicObstructivePulmonaryDisease");
 const cold = document.getElementById("Cold");
 const gastroesophagealRefluxDisease = document.getElementById("GastroesophagealRefluxDisease");
+const glandularFever = document.getElementById("GlandularFever");
