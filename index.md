@@ -17,8 +17,8 @@
 </span></p>
 
 <p>Body<span>
-  <input value="body aches" type="button" onClick="document.symptom.Influenza.value='Influenza';document.symptom.Monkeypox.value='Monkeypox'">
-  <input value="body pains" type="button" onClick="document.symptom.Influenza.value='Influenza'">
+  <input value="body aches" type="button" onClick="showTime([influenza]);document.symptom.Monkeypox.value='Monkeypox'">
+  <input value="body pains" type="button" onClick="showTime([influenza]);">
   <input value="fever" type="button" onClick="showTime([acuteBronchitis, glandularFever]);document.symptom.Influenza.value='Influenza'">
   <input value="high fever" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';document.symptom.Influenza.value='Influenza'">
   <input value="joint pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime([glandularFever]);">
@@ -170,7 +170,7 @@
   <input value="Cold" class="media-item" id="Cold" type="button" name="Cold" />
   <input value="Gastroesophageal Reflux Disease" class="media-item" id="GastroesophagealRefluxDisease" type="button" name="GastroesophagealRefluxDisease" />
   <input value="Glandular Fever" class="media-item" id="GlandularFever" type="button" name="GlandularFever" />
-  <input value="" type="button" name="Influenza" />
+  <input value="Influenza" class="media-item" id="Influenza" type="button" name="Influenza" />
   <input value="" type="button" name="IrritantDust" />
   <input value="" type="button" name="IrritantFumes" />
   <input value="" type="button" name="IrritantChemicals" />
