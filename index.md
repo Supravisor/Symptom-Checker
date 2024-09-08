@@ -31,7 +31,7 @@
   <input value="sweating excessively" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="temperature of 37C" type="button" onClick="showTime([cold]);">
   <input value="temperature above 37C" type="button" onClick="showTime([influenza]);">
-  <input value="temperature above 39C" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';document.symptom.Influenza.value='Influenza'">
+  <input value="temperature above 39C" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime([influenza]);">
 </span></p>
 
 <p>Chest<span>
