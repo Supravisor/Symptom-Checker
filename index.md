@@ -123,7 +123,7 @@
   <input value="shortness of breath" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([acuteBronchitis]);">
   <input value="smokers cough" type="button" onClick="document.symptom.LungDamage.value='Lung damage'">
   <input value="tickly cough" type="button" onClick="showTime([allergies]);">
-  <input value="vomiting" type="button" onClick="document.symptom.Influenza.value='Influenza'">
+  <input value="vomiting" type="button" onClick="showTime([influenza]);">
   <input value="wheezing" type="button" onClick="showTime([acuteBronchitis]);">
 </span></p>
 
