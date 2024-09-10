@@ -95,7 +95,7 @@
   <input value="brain fog" name="brain fog" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="cognitive issues" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="flushed cheeks" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
-  <input value="headache" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([cold, glandularFever]);document.symptom.Influenza.value='Influenza'">
+  <input value="headache" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([cold, glandularFever, influenza]);">
   <input value="light headedness" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="migraines" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
 </span></p>
