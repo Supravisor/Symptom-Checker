@@ -13,7 +13,7 @@
   </span></p>
 
 <p>Arms<span>
-  <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
+  <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
 </span></p>
 
 <p>Body<span>
