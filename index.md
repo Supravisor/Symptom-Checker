@@ -13,7 +13,7 @@
   </span></p>
 
 <p>Arms<span>
-  <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
+  <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
 </span></p>
 
 <p>Body<span>
@@ -25,9 +25,9 @@
   <input value="lesion anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
   <input value="muscle twitches" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="rash anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
-  <input value="red skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
+  <input value="red skin rash" type="button" onClick="showTime(['ScarletFever']);">
   <input value="shaking body" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
+  <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
   <input value="sweating excessively" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="temperature of 37C" type="button" onClick="showTime([cold]);">
   <input value="temperature above 37C" type="button" onClick="showTime([influenza]);">
