@@ -1,7 +1,7 @@
 
 <link href="./styles.css" rel="stylesheet" />
 
-<p>Click on the button below which match the symptom or symptoms you have.</p>
+<p>Click on the button below which matches the symptom or symptoms you may be experiencing.</p>
 <p>In the section at the bottom of the page a cell may populate with the health issues that may match the symptom.</p>
 
 <form name="symptom">
@@ -9,7 +9,7 @@
 <!-- Symptom -->
 
 <p>Abdomen<span>
-  <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
+  <input value="skin rash" type="button" onClick="showTime(['ScarletFever'])">
   </span></p>
 
 <p>Arms<span>
@@ -179,7 +179,7 @@
   <input value="" type="button" name="POTS" />
   <input value="" type="button" name="Pneumonia" />
   <input value="" type="button" name="RheumaticFever" />
-  <input value="" type="button" name="ScarletFever" />
+  <input value="Scarlet Fever" id="ScarletFever" class="media-item" type="button" name="ScarletFever" />
   <input value="" type="button" name="Tuberculosis" />
   <input value="" type="button" name="ViralIllnesses" />
 
