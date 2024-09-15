@@ -1,7 +1,7 @@
 
 <link href="./styles.css" rel="stylesheet" />
 
-<p>Click on the button below which match the symptom or symptoms you have.</p>
+<p>Click on the button below which matches the symptom or symptoms you may be experiencing.</p>
 <p>In the section at the bottom of the page a cell may populate with the health issues that may match the symptom.</p>
 
 <form name="symptom">
