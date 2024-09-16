@@ -129,7 +129,7 @@
 
 <p>Neck<span>
   <input value="pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
-  <input value="skin rash" type="button" onClick="document.symptom.ScarletFever.value='Scarlet fever'">
+  <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
   <input value="swollen glands" type="button" onClick="showTime([glandularFever]);">
 </span></p>
 
@@ -153,7 +153,7 @@
   <input value="mucus cough" type="button" onClick="showTime([acuteBronchitis, asthma]);document.symptom.ViralIllnesses.value='Viral Illnesses';">
   <input value="phlegm cough" type="button" onClick="showTime([acuteBronchitis, asthma]);document.symptom.ViralIllnesses.value='Viral Illnesses';">
   <input value="scratchy" type="button" onClick="document.symptom.Cold.value='Cold'">
-  <input value="soreness lasting a few days" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';document.symptom.ScarletFever.value='Scarlet fever';showTime([glandularFever, influenza]);">
+  <input value="soreness lasting a few days" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime([glandularFever, influenza, 'ScarletFever']);">
   <input value="sputnum cough" type="button" onClick="showTime([acuteBronchitis, allergies, influenza]);document.symptom.ViralIllnesses.value='Viral Illnesses';">
 </span></p>
 
