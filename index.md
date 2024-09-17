@@ -114,11 +114,11 @@
   <input value="a dry cough" type="button" onClick="showTime([cold, influenza])">
   <input value="breathing difficulties" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="coated tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
-  <input value="coughing a sticky mucus" type="button" onClick="showTime(['AcuteBronchitis', asthma]);">
+  <input value="coughing a sticky mucus" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma']);">
   <input value="coughing stomach acid" type="button" onClick="showTime([gastroesophagealRefluxDisease])">
   <input value="difficulty swallowing" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="dry cough lasting a few days" type="button" onClick="document.symptom.IrritantDust.value='Irritant (dust)';document.symptom.IrritantFumes.value='Irritant (fumes)';document.symptom.IrritantChemicals.value='Irritant (chemicals)';showTime(['AirwayBlockage']);">
-  <input value="dry cough lasting a few weeks" type="button" onClick="document.symptom.ViralIllnesses.value='Viral illnesses';showTime([bronchospasm]);document.symptom.ViralIllnesses.value='Viral illnesses';showTime(['ACEInhibitors']);document.symptom.Asthma.value='Asthma'">
+  <input value="dry cough lasting a few weeks" type="button" onClick="document.symptom.ViralIllnesses.value='Viral illnesses';showTime([bronchospasm]);document.symptom.ViralIllnesses.value='Viral illnesses';showTime(['ACEInhibitors', 'Asthma']);">
   <input value="enlarged tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="shortness of breath" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['AcuteBronchitis']);">
   <input value="smokers cough" type="button" onClick="document.symptom.LungDamage.value='Lung damage'">
@@ -150,8 +150,8 @@
 </span></p>
 
 <p>Throat<span>
-  <input value="mucus cough" type="button" onClick="showTime(['AcuteBronchitis', asthma]);document.symptom.ViralIllnesses.value='Viral Illnesses';">
-  <input value="phlegm cough" type="button" onClick="showTime(['AcuteBronchitis', asthma]);document.symptom.ViralIllnesses.value='Viral Illnesses';">
+  <input value="mucus cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma']);document.symptom.ViralIllnesses.value='Viral Illnesses';">
+  <input value="phlegm cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma']);document.symptom.ViralIllnesses.value='Viral Illnesses';">
   <input value="scratchy" type="button" onClick="document.symptom.Cold.value='Cold'">
   <input value="soreness lasting a few days" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime([glandularFever, influenza, 'ScarletFever']);">
   <input value="sputnum cough" type="button" onClick="showTime(['AcuteBronchitis', 'Allergies', influenza]);document.symptom.ViralIllnesses.value='Viral Illnesses';">
