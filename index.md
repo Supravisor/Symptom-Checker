@@ -118,7 +118,7 @@
   <input value="coughing stomach acid" type="button" onClick="showTime([gastroesophagealRefluxDisease])">
   <input value="difficulty swallowing" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="dry cough lasting a few days" type="button" onClick="document.symptom.IrritantDust.value='Irritant (dust)';document.symptom.IrritantFumes.value='Irritant (fumes)';document.symptom.IrritantChemicals.value='Irritant (chemicals)';showTime(['AirwayBlockage']);">
-  <input value="dry cough lasting a few weeks" type="button" onClick="document.symptom.ViralIllnesses.value='Viral illnesses';showTime([bronchospasm]);document.symptom.ViralIllnesses.value='Viral illnesses';showTime(['ACEInhibitors', 'Asthma']);">
+  <input value="dry cough lasting a few weeks" type="button" onClick="document.symptom.ViralIllnesses.value='Viral illnesses';document.symptom.ViralIllnesses.value='Viral illnesses';showTime(['ACEInhibitors', 'Asthma', 'Bronchospasm']);">
   <input value="enlarged tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="shortness of breath" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['AcuteBronchitis']);">
   <input value="smokers cough" type="button" onClick="document.symptom.LungDamage.value='Lung damage'">
