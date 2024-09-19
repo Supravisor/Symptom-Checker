@@ -172,7 +172,7 @@
   <input value="Gastroesophageal Reflux Disease" class="media-item" id="GastroesophagealRefluxDisease" type="button" name="GastroesophagealRefluxDisease" />
   <input value="Glandular Fever" class="media-item" id="GlandularFever" type="button" name="GlandularFever" />
   <input value="Influenza" class="media-item" id="Influenza" type="button" name="Influenza" />
-  <input value="Irritant Dust" class="media-item" id="IrritantDust" type="button" name="IrritantDust" />
+  <input value="Irritant (dust)" class="media-item" id="IrritantDust" type="button" name="IrritantDust" />
   <input value="" type="button" name="IrritantFumes" />
   <input value="" type="button" name="IrritantChemicals" />
   <input value="" type="button" type="button" name="LungDamage" />
