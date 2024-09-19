@@ -122,7 +122,7 @@
   <input value="dry cough lasting a few weeks" type="button" onClick="document.symptom.ViralIllnesses.value='Viral illnesses';document.symptom.ViralIllnesses.value='Viral illnesses';showTime(['ACEInhibitors', 'Asthma', 'Bronchospasm']);">
   <input value="enlarged tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="shortness of breath" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['AcuteBronchitis']);">
-  <input value="smokers cough" type="button" onClick="document.symptom.LungDamage.value='Lung damage'">
+  <input value="smokers cough" type="button" onClick="showTime(['LungDamage']);">
   <input value="tickly cough" type="button" onClick="showTime(['Allergies']);">
   <input value="vomiting" type="button" onClick="showTime([influenza]);">
   <input value="wheezing" type="button" onClick="showTime(['AcuteBronchitis']);">
@@ -175,7 +175,7 @@
   <input value="Irritant (dust)" class="media-item" id="IrritantDust" type="button" name="IrritantDust" />
   <input value="Irritant (fumes)" class="media-item" id="IrritantFumes" type="button" name="IrritantFumes" />
   <input value="Irritant (chemicals)" class="media-item" id="IrritantChemicals" type="button" name="IrritantChemicals" />
-  <input value="" type="button" type="button" name="LungDamage" />
+  <input value="Lung damage" class="media-item" id="LungDamage" type="button" type="button" name="LungDamage" />
   <input value="" type="button" name="Monkeypox" />
   <input value="" type="button" name="POTS" />
   <input value="" type="button" name="Pneumonia" />
