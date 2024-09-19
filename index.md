@@ -17,14 +17,14 @@
 </span></p>
 
 <p>Body<span>
-  <input value="body aches" type="button" onClick="showTime([influenza]);document.symptom.Monkeypox.value='Monkeypox'">
+  <input value="body aches" type="button" onClick="showTime(['Influenza', 'Monkeypox'])">
   <input value="body pains" type="button" onClick="showTime([influenza]);">
   <input value="fever" type="button" onClick="showTime(['AcuteBronchitis', 'GlandularFever', influenza]);">
   <input value="high fever" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';showTime([influenza]);">
   <input value="joint pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime(['GlandularFever']);">
-  <input value="lesion anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
+  <input value="lesion anywhere" type="button" onClick="showTime(['Monkeypox'])">
   <input value="muscle twitches" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="rash anywhere" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
+  <input value="rash anywhere" type="button" onClick="showTime(['Monkeypox']);">
   <input value="red skin rash" type="button" onClick="showTime(['ScarletFever']);">
   <input value="shaking body" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
@@ -60,7 +60,7 @@
 </span></p>
 
 <p>Face<span>
-  <input value="lesion" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
+  <input value="lesion" type="button" onClick="show(['Monkeypox']);">
   <input value="rash" type="button" onClick="document.symptom.Monkeypox.value='Monkeypox'">
 </span></p>
 
