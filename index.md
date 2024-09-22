@@ -155,7 +155,7 @@
   <input value="phlegm cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma']);document.symptom.ViralIllnesses.value='Viral Illnesses';">
   <input value="scratchy" type="button" onClick="showTime(['Cold']);">
   <input value="soreness lasting a few days" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime(['GlandularFever', influenza, 'ScarletFever']);">
-  <input value="sputnum cough" type="button" onClick="showTime(['AcuteBronchitis', 'Allergies', influenza]);document.symptom.ViralIllnesses.value='Viral Illnesses';">
+  <input value="sputnum cough" type="button" onClick="showTime(['AcuteBronchitis', 'Allergies', 'Influenza']);document.symptom.ViralIllnesses.value='Viral Illnesses';">
 </span></p>
 
 <!-- Health condition -->
