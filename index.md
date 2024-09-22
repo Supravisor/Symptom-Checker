@@ -138,16 +138,16 @@
   <input value="blocked" type="button" onClick="showTime(['Cold', 'Influenza']);">
   <input value="runny" type="button" onClick="showTime(['Cold', 'Influenza']);">
   <input value="sneezing" type="button" onClick="showTime(['Cold', 'Influenza']);">
-  <input value="stuffy" type="button" onClick="showTime(['Cold', influenza]);">
+  <input value="stuffy" type="button" onClick="showTime(['Cold', 'Influenza']);">
 </span></p>
 
 <p>Stomach<span>
-  <input value="aches" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([influenza]);">
+  <input value="aches" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['Influenza']);">
   <input value="bloating" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="discomfort" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([influenza]);">
+  <input value="discomfort" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['Influenza']);">
   <input value="loss of appetite" type="button" onClick="showTime(['GlandularFever']);">
-  <input value="pains" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([influenza]);">
-  <input value="upset" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime([influenza]);">
+  <input value="pains" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['Influenza']);">
+  <input value="upset" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['Influenza']);">
 </span></p>
 
 <p>Throat<span>
