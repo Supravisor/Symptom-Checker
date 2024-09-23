@@ -65,11 +65,11 @@
 </span></p>
 
 <p>Feelings<span>
-  <input value="almost fainting" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="anxiety" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="almost fainting" type="button" onClick="showTime(['POTS']);">
+  <input value="anxiety" type="button" onClick="showTime(['POTS']);">
   <input value="chills" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';showTime(['Influenza', 'Monkeypox']);">
-  <input value="dizziness" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="fainting" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="dizziness" type="button" onClick="showTime(['POTS']);">
+  <input value="fainting" type="button" onClick="showTime(['POTS']);">
   <input value="fatigue" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['AcuteBronchitis', 'Monkeypox']);">
   <input value="feeling extremely cold" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
   <input value="feeling extremely hot" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
