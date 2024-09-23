@@ -49,13 +49,13 @@
 <p>Ears<span>
   <input value="ache" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="blocked" type="button" onClick="showTime(['Cold']);">
-  <input value="sound sensitivity" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="sound sensitivity" type="button" onClick="showTime(['POTS']);">
 </span></p>
 
 <p>Eyes<span>
-  <input value="blurred vision" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="light sensitivity" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="tunnel vision" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="blurred vision" type="button" onClick="showTime(['POTS']);">
+  <input value="light sensitivity" type="button" onClick="showTime(['POTS']);">
+  <input value="tunnel vision" type="button" onClick="showTime(['POTS']);">
   <input value="watery" type="button" onClick="showTime(['Cold']);">
 </span></p>
 
