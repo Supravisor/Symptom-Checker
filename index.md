@@ -41,9 +41,9 @@
 </span></p>
 
 <p>Digestive system<span>
-  <input value="constipation" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="diarrhoea" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['Influenza']);">
-  <input value="irritable bowel syndrome" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="constipation" type="button" onClick="showTime(['POTS']);">
+  <input value="diarrhoea" type="button" onClick="showTime(['Influenza', 'POTS']);">
+  <input value="irritable bowel syndrome" type="button" onClick="showTime(['POTS']);">
 </span></p>
 
 <p>Ears<span>
