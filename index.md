@@ -81,14 +81,14 @@
 </span></p>
 
 <p>Feet<span>
-  <input value="tingling feet" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="walking long distance is difficult" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="tingling feet" type="button" onClick="showTime(['POTS']);">
+  <input value="walking long distance is difficult" type="button" onClick="showTime(['POTS]);'">
 </span></p>
 
 <p>Hands<span>
   <input value="lesion" type="button" onClick="showTime(['Monkeypox']);">
   <input value="rash" type="button" onClick="showTime(['Monkeypox']);">
-  <input value="tingling hands" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="tingling hands" type="button" onClick="showTime(['POTS']);">
 </span></p>
 
 <p>Head<span>
