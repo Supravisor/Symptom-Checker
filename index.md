@@ -82,7 +82,7 @@
 
 <p>Feet<span>
   <input value="tingling feet" type="button" onClick="showTime(['POTS']);">
-  <input value="walking long distance is difficult" type="button" onClick="showTime(['POTS]);'">
+  <input value="walking long distance is difficult" type="button" onClick="showTime(['POTS']);'">
 </span></p>
 
 <p>Hands<span>
@@ -92,13 +92,12 @@
 </span></p>
 
 <p>Head<span>
-  <input value="brain fog" name="brain fog" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="cognitive issues" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="brain fog" name="brain fog" type="button" onClick="showTime(['POTS']);">
+  <input value="cognitive issues" type="button" onClick="showTime(['POTS']);">
   <input value="flushed cheeks" type="button" onClick="showTime(['ScarletFever']);">
-  <input value="headache" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['Cold', 'GlandularFever', 'Influenza']);">
-  
-  <input value="light headedness" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="migraines" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="headache" type="button" onClick="showTime(['Cold', 'GlandularFever', 'Influenza', 'POTS']);">
+  <input value="light headedness" type="button" onClick="showTime(['POTS']);">
+  <input value="migraines" type="button" onClick="showTime(['POTS']);">
 </span></p>
 
 <p>Heart<span>
