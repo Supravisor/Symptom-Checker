@@ -74,8 +74,8 @@
   <input value="feeling extremely cold" type="button" onClick="showTime(['POTS']);">
   <input value="feeling extremely hot" type="button" onClick="showTime(['POTS']);">
   <input value="loss of energy for longer than a few weeks" type="button" onClick="showTime(['GlandularFever', 'POTS']);">
-  <input value="nausea" type="button" onClick="showTime('POTS']);">
-  <input value="sleeping difficulty" type="button" onClick="showTime('POTS']);">
+  <input value="nausea" type="button" onClick="showTime(['POTS']);">
+  <input value="sleeping difficulty" type="button" onClick="showTime(['POTS']);">
   <input value="tiredness" type="button" onClick="showTime(['Cold', 'GlandularFever', 'POTS']);">
   <input value="unwell for longer than a few weeks" type="button" onClick="showTime(['GlandularFever', 'POTS']);">
 </span></p>
