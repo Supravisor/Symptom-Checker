@@ -23,7 +23,7 @@
   <input value="high fever" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';showTime(['Influenza']);">
   <input value="joint pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime(['GlandularFever']);">
   <input value="lesion anywhere" type="button" onClick="showTime(['Monkeypox'])">
-  <input value="muscle twitches" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="muscle twitches" type="button" onClick="showTime(['POTS']);">
   <input value="rash anywhere" type="button" onClick="showTime(['Monkeypox']);">
   <input value="red skin rash" type="button" onClick="showTime(['ScarletFever']);">
   <input value="shaking body" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
