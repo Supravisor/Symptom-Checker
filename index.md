@@ -70,14 +70,14 @@
   <input value="chills" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';showTime(['Influenza', 'Monkeypox']);">
   <input value="dizziness" type="button" onClick="showTime(['POTS']);">
   <input value="fainting" type="button" onClick="showTime(['POTS']);">
-  <input value="fatigue" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['AcuteBronchitis', 'Monkeypox']);">
-  <input value="feeling extremely cold" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="feeling extremely hot" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="loss of energy for longer than a few weeks" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['GlandularFever']);">
-  <input value="nausea" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="sleeping difficulty" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="tiredness" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['Cold', 'GlandularFever']);">
-  <input value="unwell for longer than a few weeks" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['GlandularFever']);">
+  <input value="fatigue" type="button" onClick="showTime(['AcuteBronchitis', 'Monkeypox', 'POTS']);">
+  <input value="feeling extremely cold" type="button" onClick="showTime(['POTS']);">
+  <input value="feeling extremely hot" type="button" onClick="showTime(['POTS']);">
+  <input value="loss of energy for longer than a few weeks" type="button" onClick="showTime(['GlandularFever', 'POTS']);">
+  <input value="nausea" type="button" onClick="showTime(['POTS']);">
+  <input value="sleeping difficulty" type="button" onClick="showTime(['POTS']);">
+  <input value="tiredness" type="button" onClick="showTime(['Cold', 'GlandularFever', 'POTS']);">
+  <input value="unwell for longer than a few weeks" type="button" onClick="showTime(['GlandularFever', 'POTS']);">
 </span></p>
 
 <p>Feet<span>
