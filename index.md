@@ -23,39 +23,39 @@
   <input value="high fever" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';showTime(['Influenza']);">
   <input value="joint pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime(['GlandularFever']);">
   <input value="lesion anywhere" type="button" onClick="showTime(['Monkeypox'])">
-  <input value="muscle twitches" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="muscle twitches" type="button" onClick="showTime(['POTS']);">
   <input value="rash anywhere" type="button" onClick="showTime(['Monkeypox']);">
   <input value="red skin rash" type="button" onClick="showTime(['ScarletFever']);">
-  <input value="shaking body" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="shaking body" type="button" onClick="showTime(['POTS']);">
   <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
-  <input value="sweating excessively" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="sweating excessively" type="button" onClick="showTime(['POTS']);">
   <input value="temperature of 37C" type="button" onClick="showTime(['Cold']);">
   <input value="temperature above 37C" type="button" onClick="showTime(['Influenza']);">
   <input value="temperature above 39C" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime(['Influenza']);">
 </span></p>
 
 <p>Chest<span>
-  <input value="chest discomfort" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['AcuteBronchitis']);">
-  <input value="chest pain" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['AcuteBronchitis']);">
+  <input value="chest discomfort" type="button" onClick="showTime(['AcuteBronchitis', 'POTS']);">
+  <input value="chest pain" type="button" onClick="showTime(['AcuteBronchitis', 'POTS']);">
   <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
 </span></p>
 
 <p>Digestive system<span>
-  <input value="constipation" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="diarrhoea" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['Influenza']);">
-  <input value="irritable bowel syndrome" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="constipation" type="button" onClick="showTime(['POTS']);">
+  <input value="diarrhoea" type="button" onClick="showTime(['Influenza', 'POTS']);">
+  <input value="irritable bowel syndrome" type="button" onClick="showTime(['POTS']);">
 </span></p>
 
 <p>Ears<span>
   <input value="ache" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
   <input value="blocked" type="button" onClick="showTime(['Cold']);">
-  <input value="sound sensitivity" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="sound sensitivity" type="button" onClick="showTime(['POTS']);">
 </span></p>
 
 <p>Eyes<span>
-  <input value="blurred vision" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="light sensitivity" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="tunnel vision" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="blurred vision" type="button" onClick="showTime(['POTS']);">
+  <input value="light sensitivity" type="button" onClick="showTime(['POTS']);">
+  <input value="tunnel vision" type="button" onClick="showTime(['POTS']);">
   <input value="watery" type="button" onClick="showTime(['Cold']);">
 </span></p>
 
@@ -177,7 +177,7 @@
   <input value="Irritant (chemicals)" class="media-item" id="IrritantChemicals" type="button" name="IrritantChemicals" />
   <input value="Lung damage" class="media-item" id="LungDamage" type="button" type="button" name="LungDamage" />
   <input value="Monkeypox" class="media-item" id="Monkeypox" type="button" name="Monkeypox" />
-  <input value="" type="button" name="POTS" />
+  <input value="POTS" class="media-item" id="POTS" type="button" name="POTS" />
   <input value="" type="button" name="Pneumonia" />
   <input value="" type="button" name="RheumaticFever" />
   <input value="Scarlet Fever" id="ScarletFever" class="media-item" type="button" name="ScarletFever" />
