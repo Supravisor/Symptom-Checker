@@ -26,17 +26,17 @@
   <input value="muscle twitches" type="button" onClick="showTime(['POTS']);">
   <input value="rash anywhere" type="button" onClick="showTime(['Monkeypox']);">
   <input value="red skin rash" type="button" onClick="showTime(['ScarletFever']);">
-  <input value="shaking body" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="shaking body" type="button" onClick="showTime(['POTS']);">
   <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
-  <input value="sweating excessively" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
+  <input value="sweating excessively" type="button" onClick="showTime(['POTS']);">
   <input value="temperature of 37C" type="button" onClick="showTime(['Cold']);">
   <input value="temperature above 37C" type="button" onClick="showTime(['Influenza']);">
   <input value="temperature above 39C" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime(['Influenza']);">
 </span></p>
 
 <p>Chest<span>
-  <input value="chest discomfort" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['AcuteBronchitis']);">
-  <input value="chest pain" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['AcuteBronchitis']);">
+  <input value="chest discomfort" type="button" onClick="showTime(['AcuteBronchitis', 'POTS']);">
+  <input value="chest pain" type="button" onClick="showTime(['AcuteBronchitis', 'POTS']);">
   <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
 </span></p>
 
