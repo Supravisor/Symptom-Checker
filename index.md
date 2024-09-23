@@ -82,7 +82,7 @@
 
 <p>Feet<span>
   <input value="tingling feet" type="button" onClick="showTime(['POTS']);">
-  <input value="walking long distance is difficult" type="button" onClick="showTime(['POTS']);'">
+  <input value="walking long distance is difficult" type="button" onClick="showTime(['POTS']);">
 </span></p>
 
 <p>Hands<span>
