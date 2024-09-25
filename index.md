@@ -141,12 +141,12 @@
 </span></p>
 
 <p>Stomach<span>
-  <input value="aches" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['Influenza']);">
-  <input value="bloating" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome'">
-  <input value="discomfort" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['Influenza']);">
+  <input value="aches" type="button" onClick="showTime(['Influenza', 'POTS']);">
+  <input value="bloating" type="button" onClick="showTime(['POTS']);">
+  <input value="discomfort" type="button" onClick="showTime(['Influenza', 'POTS']);">
   <input value="loss of appetite" type="button" onClick="showTime(['GlandularFever']);">
-  <input value="pains" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['Influenza']);">
-  <input value="upset" type="button" onClick="document.symptom.POTS.value='Postural orthostatic tachycardia syndrome';showTime(['Influenza']);">
+  <input value="pains" type="button" onClick="showTime(['Influenza', 'POTS']);">
+  <input value="upset" type="button" onClick="showTime(['Influenza', 'POTS']);">
 </span></p>
 
 <p>Throat<span>
