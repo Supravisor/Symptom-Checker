@@ -67,7 +67,7 @@
 <p>Feelings<span>
   <input value="almost fainting" type="button" onClick="showTime(['POTS']);">
   <input value="anxiety" type="button" onClick="showTime(['POTS']);">
-  <input value="chills" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';showTime(['Influenza', 'Monkeypox']);">
+  <input value="chills" type="button" onClick="showTime(['Influenza', 'Monkeypox', 'Pneumonia']);">
   <input value="dizziness" type="button" onClick="showTime(['POTS']);">
   <input value="fainting" type="button" onClick="showTime(['POTS']);">
   <input value="fatigue" type="button" onClick="showTime(['AcuteBronchitis', 'Monkeypox', 'POTS']);">
@@ -105,7 +105,7 @@
 </span></p>
 
 <p>Lungs<span>
-  <input value="phlegm cough" type="button" onClick="showTime(['Bronchitis', 'ChronicObstructivePulmonaryDisease']);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';">
+  <input value="phlegm cough" type="button" onClick="showTime(['Bronchitis', 'ChronicObstructivePulmonaryDisease', 'Pneumonia']);document.symptom.Tuberculosis.value='Tuberculosis';">
   <input value="mucus cough" type="button" onClick="showTime(['Bronchitis']);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';showTime(['ChronicObstructivePulmonaryDisease']);">
   <input value="sputnum cough" type="button" onClick="showTime(['Bronchitis']);document.symptom.Pneumonia.value='Pneumonia';document.symptom.Tuberculosis.value='Tuberculosis';showTime(['ChronicObstructivePulmonaryDisease']);">
 </span></p>
