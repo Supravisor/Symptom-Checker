@@ -21,7 +21,7 @@
   <input value="body pains" type="button" onClick="showTime(['Influenza']);">
   <input value="fever" type="button" onClick="showTime(['AcuteBronchitis', 'GlandularFever', 'Influenza']);">
   <input value="high fever" type="button" onClick="showTime(['Influenza', 'Pneumonia']);">
-  <input value="joint pain" type="button" onClick="showTime(['GlandularFever', 'Rheumatic Fever']);">
+  <input value="joint pain" type="button" onClick="showTime(['GlandularFever', 'RheumaticFever']);">
   <input value="lesion anywhere" type="button" onClick="showTime(['Monkeypox'])">
   <input value="muscle twitches" type="button" onClick="showTime(['POTS']);">
   <input value="rash anywhere" type="button" onClick="showTime(['Monkeypox']);">
