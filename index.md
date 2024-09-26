@@ -20,7 +20,7 @@
   <input value="body aches" type="button" onClick="showTime(['Influenza', 'Monkeypox'])">
   <input value="body pains" type="button" onClick="showTime(['Influenza']);">
   <input value="fever" type="button" onClick="showTime(['AcuteBronchitis', 'GlandularFever', 'Influenza']);">
-  <input value="high fever" type="button" onClick="document.symptom.Pneumonia.value='Pneumonia';showTime(['Influenza']);">
+  <input value="high fever" type="button" onClick="showTime(['Influenza', 'Pneumonia']);">
   <input value="joint pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime(['GlandularFever']);">
   <input value="lesion anywhere" type="button" onClick="showTime(['Monkeypox'])">
   <input value="muscle twitches" type="button" onClick="showTime(['POTS']);">
@@ -177,7 +177,7 @@
   <input value="Lung damage" class="media-item" id="LungDamage" type="button" type="button" name="LungDamage" />
   <input value="Monkeypox" class="media-item" id="Monkeypox" type="button" name="Monkeypox" />
   <input value="POTS" class="media-item" id="POTS" type="button" name="POTS" />
-  <input value="" type="button" name="Pneumonia" />
+  <input value="Pneumonia" class="media-item" id="Pneumonia" type="button" name="Pneumonia" />
   <input value="" type="button" name="RheumaticFever" />
   <input value="Scarlet Fever" id="ScarletFever" class="media-item" type="button" name="ScarletFever" />
   <input value="" type="button" name="Tuberculosis" />
