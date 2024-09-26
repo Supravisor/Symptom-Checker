@@ -31,7 +31,7 @@
   <input value="sweating excessively" type="button" onClick="showTime(['POTS']);">
   <input value="temperature of 37C" type="button" onClick="showTime(['Cold']);">
   <input value="temperature above 37C" type="button" onClick="showTime(['Influenza']);">
-  <input value="temperature above 39C" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime(['Influenza']);">
+  <input value="temperature above 39C" type="button" onClick="showTime(['Influenza', 'RheumaticFever']);">
 </span></p>
 
 <p>Chest<span>
@@ -47,7 +47,7 @@
 </span></p>
 
 <p>Ears<span>
-  <input value="ache" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
+  <input value="ache" type="button" onClick="showTime(['Rheumatic fever']);">
   <input value="blocked" type="button" onClick="showTime(['Cold']);">
   <input value="sound sensitivity" type="button" onClick="showTime(['POTS']);">
 </span></p>
@@ -113,13 +113,13 @@
 <p>Mouth<span>
   <input value="a dry cough" type="button" onClick="showTime(['Cold', 'Influenza'])">
   <input value="breathing difficulties" type="button" onClick="showTime(['POTS']);">
-  <input value="coated tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
+  <input value="coated tonsils" type="button" onClick="showTime(['RheumaticFever']);">
   <input value="coughing a sticky mucus" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma']);">
   <input value="coughing stomach acid" type="button" onClick="showTime(['GastroesophagealRefluxDisease'])">
-  <input value="difficulty swallowing" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
+  <input value="difficulty swallowing" type="button" onClick="showTime(['RheumaticFever']);">
   <input value="dry cough lasting a few days" type="button" onClick="showTime(['AirwayBlockage', 'IrritantDust', 'IrritantFumes', 'IrritantChemicals']);">
   <input value="dry cough lasting a few weeks" type="button" onClick="document.symptom.ViralIllnesses.value='Viral illnesses';document.symptom.ViralIllnesses.value='Viral illnesses';showTime(['ACEInhibitors', 'Asthma', 'Bronchospasm']);">
-  <input value="enlarged tonsils" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
+  <input value="enlarged tonsils" type="button" onClick="showTime(['RheumaticFever']);">
   <input value="shortness of breath" type="button" onClick="showTime(['AcuteBronchitis', 'POTS']);">
   <input value="smokers cough" type="button" onClick="showTime(['LungDamage']);">
   <input value="tickly cough" type="button" onClick="showTime(['Allergies']);">
