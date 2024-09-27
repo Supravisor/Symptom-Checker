@@ -47,7 +47,7 @@
 </span></p>
 
 <p>Ears<span>
-  <input value="ache" type="button" onClick="showTime(['Rheumatic fever']);">
+  <input value="ache" type="button" onClick="showTime(['RheumaticFever']);">
   <input value="blocked" type="button" onClick="showTime(['Cold']);">
   <input value="sound sensitivity" type="button" onClick="showTime(['POTS']);">
 </span></p>
@@ -128,7 +128,7 @@
 </span></p>
 
 <p>Neck<span>
-  <input value="pain" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever'">
+  <input value="pain" type="button" onClick="showTime(['RheumaticFever']);">
   <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
   <input value="swollen glands" type="button" onClick="showTime(['GlandularFever']);">
 </span></p>
@@ -153,7 +153,7 @@
   <input value="mucus cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma']);document.symptom.ViralIllnesses.value='Viral Illnesses';">
   <input value="phlegm cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma']);document.symptom.ViralIllnesses.value='Viral Illnesses';">
   <input value="scratchy" type="button" onClick="showTime(['Cold']);">
-  <input value="soreness lasting a few days" type="button" onClick="document.symptom.RheumaticFever.value='Rheumatic fever';showTime(['GlandularFever', influenza, 'ScarletFever']);">
+  <input value="soreness lasting a few days" type="button" onClick="showTime(['GlandularFever', 'Influenza', 'ScarletFever', 'RheumaticFever']);">
   <input value="sputnum cough" type="button" onClick="showTime(['AcuteBronchitis', 'Allergies', 'Influenza']);document.symptom.ViralIllnesses.value='Viral Illnesses';">
 </span></p>
 
