@@ -47,7 +47,7 @@
 </span></p>
 
 <p>Ears<span>
-  <input value="ache" type="button" onClick="showTime(['Rheumatic fever']);">
+  <input value="ache" type="button" onClick="showTime(['RheumaticFever']);">
   <input value="blocked" type="button" onClick="showTime(['Cold']);">
   <input value="sound sensitivity" type="button" onClick="showTime(['POTS']);">
 </span></p>
