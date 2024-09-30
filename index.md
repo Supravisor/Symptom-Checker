@@ -105,7 +105,7 @@
 </span></p>
 
 <p>Lungs<span>
-  <input value="phlegm cough" type="button" onClick="showTime(['Bronchitis', 'ChronicObstructivePulmonaryDisease', 'Pneumonia']);document.symptom.Tuberculosis.value='Tuberculosis';">
+  <input value="phlegm cough" type="button" onClick="showTime(['Bronchitis', 'ChronicObstructivePulmonaryDisease', 'Pneumonia', 'Tuberculosis']);">
   <input value="mucus cough" type="button" onClick="showTime(['Bronchitis', 'Pneumonia']);document.symptom.Tuberculosis.value='Tuberculosis';showTime(['ChronicObstructivePulmonaryDisease']);">
   <input value="sputnum cough" type="button" onClick="showTime(['Bronchitis', 'Pneumonia']);document.symptom.Tuberculosis.value='Tuberculosis';showTime(['ChronicObstructivePulmonaryDisease']);">
 </span></p>
@@ -179,8 +179,8 @@
   <input value="POTS" class="media-item" id="POTS" type="button" name="POTS" />
   <input value="Pneumonia" class="media-item" id="Pneumonia" type="button" name="Pneumonia" />
   <input value="Rheumatic Fever" class="media-item" id="RheumaticFever" type="button" name="RheumaticFever" />
-  <input value="Scarlet Fever" id="ScarletFever" class="media-item" type="button" name="ScarletFever" />
-  <input value="" type="button" name="Tuberculosis" />
+  <input value="Scarlet Fever" class="media-item" id="ScarletFever" type="button" name="ScarletFever" />
+  <input value="Tuberculosis" class="media-item" id="Tuberculosis" type="button" name="Tuberculosis" />
   <input value="" type="button" name="ViralIllnesses" />
 
 </form>
