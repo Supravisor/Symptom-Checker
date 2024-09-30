@@ -106,8 +106,8 @@
 
 <p>Lungs<span>
   <input value="phlegm cough" type="button" onClick="showTime(['Bronchitis', 'ChronicObstructivePulmonaryDisease', 'Pneumonia', 'Tuberculosis']);">
-  <input value="mucus cough" type="button" onClick="showTime(['Bronchitis', 'Pneumonia']);document.symptom.Tuberculosis.value='Tuberculosis';showTime(['ChronicObstructivePulmonaryDisease']);">
-  <input value="sputnum cough" type="button" onClick="showTime(['Bronchitis', 'Pneumonia']);document.symptom.Tuberculosis.value='Tuberculosis';showTime(['ChronicObstructivePulmonaryDisease']);">
+  <input value="mucus cough" type="button" onClick="showTime(['Bronchitis', 'ChronicObstructivePulmonaryDisease', 'Pneumonia', 'Tuberculosis']);">
+  <input value="sputnum cough" type="button" onClick="showTime(['Bronchitis', 'ChronicObstructivePulmonaryDisease', 'Pneumonia', Tuberculosis]);">
 </span></p>
 
 <p>Mouth<span>
