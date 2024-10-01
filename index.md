@@ -118,7 +118,7 @@
   <input value="coughing stomach acid" type="button" onClick="showTime(['GastroesophagealRefluxDisease'])">
   <input value="difficulty swallowing" type="button" onClick="showTime(['RheumaticFever']);">
   <input value="dry cough lasting a few days" type="button" onClick="showTime(['AirwayBlockage', 'IrritantDust', 'IrritantFumes', 'IrritantChemicals']);">
-  <input value="dry cough lasting a few weeks" type="button" onClick="document.symptom.ViralIllnesses.value='Viral illnesses';document.symptom.ViralIllnesses.value='Viral illnesses';showTime(['ACEInhibitors', 'Asthma', 'Bronchospasm']);">
+  <input value="dry cough lasting a few weeks" type="button" onClick="showTime(['ACEInhibitors', 'Asthma', 'Bronchospasm', 'ViralIllnesses']);">
   <input value="enlarged tonsils" type="button" onClick="showTime(['RheumaticFever']);">
   <input value="shortness of breath" type="button" onClick="showTime(['AcuteBronchitis', 'POTS']);">
   <input value="smokers cough" type="button" onClick="showTime(['LungDamage']);">
@@ -181,7 +181,7 @@
   <input value="Rheumatic Fever" class="media-item" id="RheumaticFever" type="button" name="RheumaticFever" />
   <input value="Scarlet Fever" class="media-item" id="ScarletFever" type="button" name="ScarletFever" />
   <input value="Tuberculosis" class="media-item" id="Tuberculosis" type="button" name="Tuberculosis" />
-  <input value="" type="button" name="ViralIllnesses" />
+  <input value="ViralIllnesses" class="media-item" id="ViralIllnesses" type="button" name="ViralIllnesses" />
 
 </form>
 
