@@ -150,11 +150,11 @@
 </span></p>
 
 <p>Throat<span>
-  <input value="mucus cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma', 'Viral Illnesses']);">
-  <input value="phlegm cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma', 'Viral Illnesses']);">
+  <input value="mucus cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma', 'ViralIllnesses']);">
+  <input value="phlegm cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma', 'ViralIllnesses']);">
   <input value="scratchy" type="button" onClick="showTime(['Cold']);">
   <input value="soreness lasting a few days" type="button" onClick="showTime(['GlandularFever', 'Influenza', 'ScarletFever', 'RheumaticFever']);">
-  <input value="sputnum cough" type="button" onClick="showTime(['AcuteBronchitis', 'Allergies', 'Influenza', 'Viral Illnesses']);">
+  <input value="sputnum cough" type="button" onClick="showTime(['AcuteBronchitis', 'Allergies', 'Influenza', 'ViralIllnesses']);">
 </span></p>
 
 <!-- Health condition -->
