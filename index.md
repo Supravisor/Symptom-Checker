@@ -176,7 +176,7 @@
   <input value="Irritant (chemicals)" class="media-item" id="IrritantChemicals" type="button" name="IrritantChemicals" />
   <input value="Lung damage" class="media-item" id="LungDamage" type="button" type="button" name="LungDamage" />
   <input value="Monkeypox" class="media-item" id="Monkeypox" type="button" name="Monkeypox" />
-  <input value="POTS" class="media-item" id="POTS" type="button" name="POTS" />
+  <input value="Postural orthostatic tachycardia syndrome" class="media-item" id="POTS" type="button" name="POTS" />
   <input value="Pneumonia" class="media-item" id="Pneumonia" type="button" name="Pneumonia" />
   <input value="Rheumatic Fever" class="media-item" id="RheumaticFever" type="button" name="RheumaticFever" />
   <input value="Scarlet Fever" class="media-item" id="ScarletFever" type="button" name="ScarletFever" />
