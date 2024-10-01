@@ -150,11 +150,11 @@
 </span></p>
 
 <p>Throat<span>
-  <input value="mucus cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma']);document.symptom.ViralIllnesses.value='Viral Illnesses';">
-  <input value="phlegm cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma']);document.symptom.ViralIllnesses.value='Viral Illnesses';">
+  <input value="mucus cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma', 'Viral Illnesses']);">
+  <input value="phlegm cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma', 'Viral Illnesses']);">
   <input value="scratchy" type="button" onClick="showTime(['Cold']);">
   <input value="soreness lasting a few days" type="button" onClick="showTime(['GlandularFever', 'Influenza', 'ScarletFever', 'RheumaticFever']);">
-  <input value="sputnum cough" type="button" onClick="showTime(['AcuteBronchitis', 'Allergies', 'Influenza']);document.symptom.ViralIllnesses.value='Viral Illnesses';">
+  <input value="sputnum cough" type="button" onClick="showTime(['AcuteBronchitis', 'Allergies', 'Influenza', 'Viral Illnesses']);">
 </span></p>
 
 <!-- Health condition -->
@@ -181,7 +181,7 @@
   <input value="Rheumatic Fever" class="media-item" id="RheumaticFever" type="button" name="RheumaticFever" />
   <input value="Scarlet Fever" class="media-item" id="ScarletFever" type="button" name="ScarletFever" />
   <input value="Tuberculosis" class="media-item" id="Tuberculosis" type="button" name="Tuberculosis" />
-  <input value="ViralIllnesses" class="media-item" id="ViralIllnesses" type="button" name="ViralIllnesses" />
+  <input value="Viral Illnesses" class="media-item" id="ViralIllnesses" type="button" name="ViralIllnesses" />
 
 </form>
 
