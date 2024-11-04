@@ -159,30 +159,6 @@
 
 <!-- Health condition -->
 
-  <input value="ACE Inhibitors (used to control high blood pressure)" class="media-item" id="ACEInhibitors" type="button" name="ACEInhibitors" />
-  <input value="Acute Bronchitis" class="media-item" id="AcuteBronchitis" type="button" name="AcuteBronchitis" />
-  <input value="Airway Blockage" class="media-item" id="AirwayBlockage" type="button" name="AirwayBlockage" />
-  <input value="Allergies" class="media-item" id="Allergies" type="button" name="Allergies" />
-  <input value="Asthma" class="media-item" id="Asthma" type="button" name="Asthma" />
-  <input value="Bronchitis" class="media-item" id="Bronchitis" type="button" name="Bronchitis" />
-  <input value="Bronchospasm" class="media-item" id="Bronchospasm" type="button" name="Bronchospasm" />
-  <input value="Chronic Obstructive Pulmonary Disease" class="media-item" id="ChronicObstructivePulmonaryDisease" type="button" name="ChronicObstructivePulmonaryDisease" />
-  <input value="Cold" class="media-item" id="Cold" type="button" name="Cold" />
-  <input value="Gastroesophageal Reflux Disease" class="media-item" id="GastroesophagealRefluxDisease" type="button" name="GastroesophagealRefluxDisease" />
-  <input value="Glandular Fever" class="media-item" id="GlandularFever" type="button" name="GlandularFever" />
-  <input value="Influenza" class="media-item" id="Influenza" type="button" name="Influenza" />
-  <input value="Irritant (dust)" class="media-item" id="IrritantDust" type="button" name="IrritantDust" />
-  <input value="Irritant (fumes)" class="media-item" id="IrritantFumes" type="button" name="IrritantFumes" />
-  <input value="Irritant (chemicals)" class="media-item" id="IrritantChemicals" type="button" name="IrritantChemicals" />
-  <input value="Lung damage" class="media-item" id="LungDamage" type="button" type="button" name="LungDamage" />
-  <input value="Monkeypox" class="media-item" id="Monkeypox" type="button" name="Monkeypox" />
-  <input value="Postural orthostatic tachycardia syndrome" class="media-item" id="POTS" type="button" name="POTS" />
-  <input value="Pneumonia" class="media-item" id="Pneumonia" type="button" name="Pneumonia" />
-  <input value="Rheumatic Fever" class="media-item" id="RheumaticFever" type="button" name="RheumaticFever" />
-  <input value="Scarlet Fever" class="media-item" id="ScarletFever" type="button" name="ScarletFever" />
-  <input value="Tuberculosis" class="media-item" id="Tuberculosis" type="button" name="Tuberculosis" />
-  <input value="Viral Illnesses" class="media-item" id="ViralIllnesses" type="button" name="ViralIllnesses" />
-
 </form>
 
 <script src="script.js"></script>
