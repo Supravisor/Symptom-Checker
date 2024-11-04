@@ -159,6 +159,9 @@
 
 <!-- Health condition -->
 
+<br />
+<div id="condition"></div>
+
 </form>
 
 <script src="script.js"></script>
