@@ -1,4 +1,2 @@
 
-function showTime(arg) {
-  arg.map(el => document.getElementById(el).classList.remove("media-item"));
-}
+const condition = document.getElementById("condition");
