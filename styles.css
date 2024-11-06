@@ -9,7 +9,8 @@ span > input {
 }
 
 span {
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
   margin-left: 125px;
   margin-top: -33px;
 }
