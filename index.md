@@ -13,7 +13,7 @@
   </span></p>
 
 <p>Arms<span>
-  <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
+  <input value="skin rash" type="button" onClick="showTime(['Scarlet_Fever']);">
 </span></p>
 
 <p>Body<span>
@@ -25,9 +25,9 @@
   <input value="lesion anywhere" type="button" onClick="showTime(['Monkeypox'])">
   <input value="muscle twitches" type="button" onClick="showTime(['POTS']);">
   <input value="rash anywhere" type="button" onClick="showTime(['Monkeypox']);">
-  <input value="red skin rash" type="button" onClick="showTime(['ScarletFever']);">
+  <input value="red skin rash" type="button" onClick="showTime(['Scarlet_Fever']);">
   <input value="shaking body" type="button" onClick="showTime(['POTS']);">
-  <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
+  <input value="skin rash" type="button" onClick="showTime(['Scarlet_Fever']);">
   <input value="sweating excessively" type="button" onClick="showTime(['POTS']);">
   <input value="temperature of 37C" type="button" onClick="showTime(['Cold']);">
   <input value="temperature above 37C" type="button" onClick="showTime(['Influenza']);">
@@ -37,7 +37,7 @@
 <p>Chest<span>
   <input value="chest discomfort" type="button" onClick="showTime(['AcuteBronchitis', 'POTS']);">
   <input value="chest pain" type="button" onClick="showTime(['AcuteBronchitis', 'POTS']);">
-  <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
+  <input value="skin rash" type="button" onClick="showTime(['Scarlet_Fever']);">
 </span></p>
 
 <p>Digestive system<span>
@@ -94,7 +94,7 @@
 <p>Head<span>
   <input value="brain fog" name="brain fog" type="button" onClick="showTime(['POTS']);">
   <input value="cognitive issues" type="button" onClick="showTime(['POTS']);">
-  <input value="flushed cheeks" type="button" onClick="showTime(['ScarletFever']);">
+  <input value="flushed cheeks" type="button" onClick="showTime(['Scarlet_Fever']);">
   <input value="headache" type="button" onClick="showTime(['Cold', 'GlandularFever', 'Influenza', 'POTS']);">
   <input value="light headedness" type="button" onClick="showTime(['POTS']);">
   <input value="migraines" type="button" onClick="showTime(['POTS']);">
@@ -129,7 +129,7 @@
 
 <p>Neck<span>
   <input value="pain" type="button" onClick="showTime(['RheumaticFever']);">
-  <input value="skin rash" type="button" onClick="showTime(['ScarletFever']);">
+  <input value="skin rash" type="button" onClick="showTime(['Scarlet_Fever']);">
   <input value="swollen glands" type="button" onClick="showTime(['GlandularFever']);">
 </span></p>
 
@@ -153,7 +153,7 @@
   <input value="mucus cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma', 'ViralIllnesses']);">
   <input value="phlegm cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma', 'ViralIllnesses']);">
   <input value="scratchy" type="button" onClick="showTime(['Cold']);">
-  <input value="soreness lasting a few days" type="button" onClick="showTime(['GlandularFever', 'Influenza', 'ScarletFever', 'RheumaticFever']);">
+  <input value="soreness lasting a few days" type="button" onClick="showTime(['GlandularFever', 'Influenza', 'Scarlet_Fever', 'RheumaticFever']);">
   <input value="sputnum cough" type="button" onClick="showTime(['AcuteBronchitis', 'Allergies', 'Influenza', 'ViralIllnesses']);">
 </span></p>
 
