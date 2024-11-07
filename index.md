@@ -19,9 +19,9 @@
 <p>Body<span>
   <input value="body aches" type="button" onClick="showTime(['Influenza', 'Monkeypox'])">
   <input value="body pains" type="button" onClick="showTime(['Influenza']);">
-  <input value="fever" type="button" onClick="showTime(['Acute_Bronchitis', 'GlandularFever', 'Influenza']);">
+  <input value="fever" type="button" onClick="showTime(['Acute_Bronchitis', 'Glandular_Fever', 'Influenza']);">
   <input value="high fever" type="button" onClick="showTime(['Influenza', 'Pneumonia']);">
-  <input value="joint pain" type="button" onClick="showTime(['GlandularFever', 'RheumaticFever']);">
+  <input value="joint pain" type="button" onClick="showTime(['Glandular_Fever', 'RheumaticFever']);">
   <input value="lesion anywhere" type="button" onClick="showTime(['Monkeypox'])">
   <input value="muscle twitches" type="button" onClick="showTime(['POTS']);">
   <input value="rash anywhere" type="button" onClick="showTime(['Monkeypox']);">
@@ -73,11 +73,11 @@
   <input value="fatigue" type="button" onClick="showTime(['Acute_Bronchitis', 'Monkeypox', 'POTS']);">
   <input value="feeling extremely cold" type="button" onClick="showTime(['POTS']);">
   <input value="feeling extremely hot" type="button" onClick="showTime(['POTS']);">
-  <input value="loss of energy for longer than a few weeks" type="button" onClick="showTime(['GlandularFever', 'POTS']);">
+  <input value="loss of energy for longer than a few weeks" type="button" onClick="showTime(['Glandular_Fever', 'POTS']);">
   <input value="nausea" type="button" onClick="showTime(['POTS']);">
   <input value="sleeping difficulty" type="button" onClick="showTime(['POTS']);">
-  <input value="tiredness" type="button" onClick="showTime(['Cold', 'GlandularFever', 'POTS']);">
-  <input value="unwell for longer than a few weeks" type="button" onClick="showTime(['GlandularFever', 'POTS']);">
+  <input value="tiredness" type="button" onClick="showTime(['Cold', 'Glandular_Fever', 'POTS']);">
+  <input value="unwell for longer than a few weeks" type="button" onClick="showTime(['Glandular_Fever', 'POTS']);">
 </span></p>
 
 <p>Feet<span>
@@ -95,7 +95,7 @@
   <input value="brain fog" name="brain fog" type="button" onClick="showTime(['POTS']);">
   <input value="cognitive issues" type="button" onClick="showTime(['POTS']);">
   <input value="flushed cheeks" type="button" onClick="showTime(['Scarlet_Fever']);">
-  <input value="headache" type="button" onClick="showTime(['Cold', 'GlandularFever', 'Influenza', 'POTS']);">
+  <input value="headache" type="button" onClick="showTime(['Cold', 'Glandular_Fever', 'Influenza', 'POTS']);">
   <input value="light headedness" type="button" onClick="showTime(['POTS']);">
   <input value="migraines" type="button" onClick="showTime(['POTS']);">
 </span></p>
@@ -130,7 +130,7 @@
 <p>Neck<span>
   <input value="pain" type="button" onClick="showTime(['RheumaticFever']);">
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_Fever']);">
-  <input value="swollen glands" type="button" onClick="showTime(['GlandularFever']);">
+  <input value="swollen glands" type="button" onClick="showTime(['Glandular_Fever']);">
 </span></p>
 
 <p>Nose<span>
@@ -144,7 +144,7 @@
   <input value="aches" type="button" onClick="showTime(['Influenza', 'POTS']);">
   <input value="bloating" type="button" onClick="showTime(['POTS']);">
   <input value="discomfort" type="button" onClick="showTime(['Influenza', 'POTS']);">
-  <input value="loss of appetite" type="button" onClick="showTime(['GlandularFever']);">
+  <input value="loss of appetite" type="button" onClick="showTime(['Glandular_Fever']);">
   <input value="pains" type="button" onClick="showTime(['Influenza', 'POTS']);">
   <input value="upset" type="button" onClick="showTime(['Influenza', 'POTS']);">
 </span></p>
@@ -153,7 +153,7 @@
   <input value="mucus cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma', 'ViralIllnesses']);">
   <input value="phlegm cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma', 'ViralIllnesses']);">
   <input value="scratchy" type="button" onClick="showTime(['Cold']);">
-  <input value="soreness lasting a few days" type="button" onClick="showTime(['GlandularFever', 'Influenza', 'Scarlet_Fever', 'RheumaticFever']);">
+  <input value="soreness lasting a few days" type="button" onClick="showTime(['Glandular_Fever', 'Influenza', 'Scarlet_Fever', 'RheumaticFever']);">
   <input value="sputnum cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Allergies', 'Influenza', 'ViralIllnesses']);">
 </span></p>
 
