@@ -9,7 +9,7 @@
 <!-- Symptom -->
 
 <p>Abdomen<span>
-  <input value="skin rash" type="button" onClick="showTime(['ScarletFever'])">
+  <input value="skin rash" type="button" onClick="showTime(['Scarlet_Fever'])">
   </span></p>
 
 <p>Arms<span>
