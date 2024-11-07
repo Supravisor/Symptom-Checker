@@ -19,7 +19,7 @@
 <p>Body<span>
   <input value="body aches" type="button" onClick="showTime(['Influenza', 'Monkeypox'])">
   <input value="body pains" type="button" onClick="showTime(['Influenza']);">
-  <input value="fever" type="button" onClick="showTime(['AcuteBronchitis', 'GlandularFever', 'Influenza']);">
+  <input value="fever" type="button" onClick="showTime(['Acute_Bronchitis', 'GlandularFever', 'Influenza']);">
   <input value="high fever" type="button" onClick="showTime(['Influenza', 'Pneumonia']);">
   <input value="joint pain" type="button" onClick="showTime(['GlandularFever', 'RheumaticFever']);">
   <input value="lesion anywhere" type="button" onClick="showTime(['Monkeypox'])">
@@ -35,8 +35,8 @@
 </span></p>
 
 <p>Chest<span>
-  <input value="chest discomfort" type="button" onClick="showTime(['AcuteBronchitis', 'POTS']);">
-  <input value="chest pain" type="button" onClick="showTime(['AcuteBronchitis', 'POTS']);">
+  <input value="chest discomfort" type="button" onClick="showTime(['Acute_Bronchitis', 'POTS']);">
+  <input value="chest pain" type="button" onClick="showTime(['Acute_Bronchitis', 'POTS']);">
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_Fever']);">
 </span></p>
 
@@ -70,7 +70,7 @@
   <input value="chills" type="button" onClick="showTime(['Influenza', 'Monkeypox', 'Pneumonia']);">
   <input value="dizziness" type="button" onClick="showTime(['POTS']);">
   <input value="fainting" type="button" onClick="showTime(['POTS']);">
-  <input value="fatigue" type="button" onClick="showTime(['AcuteBronchitis', 'Monkeypox', 'POTS']);">
+  <input value="fatigue" type="button" onClick="showTime(['Acute_Bronchitis', 'Monkeypox', 'POTS']);">
   <input value="feeling extremely cold" type="button" onClick="showTime(['POTS']);">
   <input value="feeling extremely hot" type="button" onClick="showTime(['POTS']);">
   <input value="loss of energy for longer than a few weeks" type="button" onClick="showTime(['GlandularFever', 'POTS']);">
@@ -114,17 +114,17 @@
   <input value="a dry cough" type="button" onClick="showTime(['Cold', 'Influenza'])">
   <input value="breathing difficulties" type="button" onClick="showTime(['POTS']);">
   <input value="coated tonsils" type="button" onClick="showTime(['RheumaticFever']);">
-  <input value="coughing a sticky mucus" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma']);">
+  <input value="coughing a sticky mucus" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma']);">
   <input value="coughing stomach acid" type="button" onClick="showTime(['GastroesophagealRefluxDisease'])">
   <input value="difficulty swallowing" type="button" onClick="showTime(['RheumaticFever']);">
   <input value="dry cough lasting a few days" type="button" onClick="showTime(['AirwayBlockage', 'IrritantDust', 'IrritantFumes', 'IrritantChemicals']);">
   <input value="dry cough lasting a few weeks" type="button" onClick="showTime(['ACEInhibitors', 'Asthma', 'Bronchospasm', 'ViralIllnesses']);">
   <input value="enlarged tonsils" type="button" onClick="showTime(['RheumaticFever']);">
-  <input value="shortness of breath" type="button" onClick="showTime(['AcuteBronchitis', 'POTS']);">
+  <input value="shortness of breath" type="button" onClick="showTime(['Acute_Bronchitis', 'POTS']);">
   <input value="smokers cough" type="button" onClick="showTime(['LungDamage']);">
   <input value="tickly cough" type="button" onClick="showTime(['Allergies']);">
   <input value="vomiting" type="button" onClick="showTime(['Influenza']);">
-  <input value="wheezing" type="button" onClick="showTime(['AcuteBronchitis']);">
+  <input value="wheezing" type="button" onClick="showTime(['Acute_Bronchitis']);">
 </span></p>
 
 <p>Neck<span>
@@ -150,11 +150,11 @@
 </span></p>
 
 <p>Throat<span>
-  <input value="mucus cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma', 'ViralIllnesses']);">
-  <input value="phlegm cough" type="button" onClick="showTime(['AcuteBronchitis', 'Asthma', 'ViralIllnesses']);">
+  <input value="mucus cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma', 'ViralIllnesses']);">
+  <input value="phlegm cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma', 'ViralIllnesses']);">
   <input value="scratchy" type="button" onClick="showTime(['Cold']);">
   <input value="soreness lasting a few days" type="button" onClick="showTime(['GlandularFever', 'Influenza', 'Scarlet_Fever', 'RheumaticFever']);">
-  <input value="sputnum cough" type="button" onClick="showTime(['AcuteBronchitis', 'Allergies', 'Influenza', 'ViralIllnesses']);">
+  <input value="sputnum cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Allergies', 'Influenza', 'ViralIllnesses']);">
 </span></p>
 
 <!-- Health condition -->
