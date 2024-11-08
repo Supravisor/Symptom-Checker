@@ -94,7 +94,7 @@
 <p>Head<span>
   <input value="brain fog" name="brain fog" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="cognitive issues" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="flushed cheeks" type="button" onClick="showTime(['Scarlet_Fever']);">
+  <input value="flushed cheeks" type="button" onClick="showTime(['Scarlet_fever']);">
   <input value="headache" type="button" onClick="showTime(['Cold', 'Glandular_fever', 'Influenza', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="light headedness" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="migraines" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
