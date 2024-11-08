@@ -9,11 +9,11 @@
 <!-- Symptom -->
 
 <p>Abdomen<span>
-  <input value="skin rash" type="button" onClick="showTime(['Scarlet_Fever'])">
+  <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever'])">
   </span></p>
 
 <p>Arms<span>
-  <input value="skin rash" type="button" onClick="showTime(['Scarlet_Fever']);">
+  <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
 </span></p>
 
 <p>Body<span>
@@ -25,9 +25,9 @@
   <input value="lesion anywhere" type="button" onClick="showTime(['Monkeypox'])">
   <input value="muscle twitches" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="rash anywhere" type="button" onClick="showTime(['Monkeypox']);">
-  <input value="red skin rash" type="button" onClick="showTime(['Scarlet_Fever']);">
+  <input value="red skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
   <input value="shaking body" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="skin rash" type="button" onClick="showTime(['Scarlet_Fever']);">
+  <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
   <input value="sweating excessively" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="temperature of 37C" type="button" onClick="showTime(['Cold']);">
   <input value="temperature above 37C" type="button" onClick="showTime(['Influenza']);">
@@ -37,7 +37,7 @@
 <p>Chest<span>
   <input value="chest discomfort" type="button" onClick="showTime(['Acute_Bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="chest pain" type="button" onClick="showTime(['Acute_Bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="skin rash" type="button" onClick="showTime(['Scarlet_Fever']);">
+  <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
 </span></p>
 
 <p>Digestive system<span>
@@ -119,7 +119,7 @@
   <input value="difficulty swallowing" type="button" onClick="showTime(['Rheumatic_Fever']);">
   <input value="dry cough lasting a few days" type="button" onClick="showTime(['AirwayBlockage', 'IrritantDust', 'IrritantFumes', 'IrritantChemicals']);">
   <input value="dry cough lasting a few weeks" type="button" onClick="showTime(['ACEInhibitors', 'Asthma', 'Bronchospasm', 'ViralIllnesses']);">
-  <input value="enlarged tonsils" type="button" onClick="showTime(['Rheumatic_Fever']);">
+  <input value="enlarged tonsils" type="button" onClick="showTime(['Rheumatic_fever']);">
   <input value="shortness of breath" type="button" onClick="showTime(['Acute_Bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="smokers cough" type="button" onClick="showTime(['LungDamage']);">
   <input value="tickly cough" type="button" onClick="showTime(['Allergies']);">
@@ -129,7 +129,7 @@
 
 <p>Neck<span>
   <input value="pain" type="button" onClick="showTime(['Rheumatic_Fever']);">
-  <input value="skin rash" type="button" onClick="showTime(['Scarlet_Fever']);">
+  <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
   <input value="swollen glands" type="button" onClick="showTime(['Glandular_Fever']);">
 </span></p>
 
@@ -153,7 +153,7 @@
   <input value="mucus cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma', 'ViralIllnesses']);">
   <input value="phlegm cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma', 'ViralIllnesses']);">
   <input value="scratchy" type="button" onClick="showTime(['Cold']);">
-  <input value="soreness lasting a few days" type="button" onClick="showTime(['Glandular_Fever', 'Influenza', 'Scarlet_Fever', 'Rheumatic_Fever']);">
+  <input value="soreness lasting a few days" type="button" onClick="showTime(['Glandular_Fever', 'Influenza', 'Scarlet_fever', 'Rheumatic_Fever']);">
   <input value="sputnum cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Allergies', 'Influenza', 'ViralIllnesses']);">
 </span></p>
 
