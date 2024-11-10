@@ -19,7 +19,7 @@
 <p>Body<span>
   <input value="body aches" type="button" onClick="showTime(['Influenza', 'Monkeypox'])">
   <input value="body pains" type="button" onClick="showTime(['Influenza']);">
-  <input value="fever" type="button" onClick="showTime(['Acute_Bronchitis', 'Glandular_fever', 'Influenza']);">
+  <input value="fever" type="button" onClick="showTime(['Acute_bronchitis', 'Glandular_fever', 'Influenza']);">
   <input value="high fever" type="button" onClick="showTime(['Influenza', 'Pneumonia']);">
   <input value="joint pain" type="button" onClick="showTime(['Glandular_fever', 'Rheumatic_fever']);">
   <input value="lesion anywhere" type="button" onClick="showTime(['Monkeypox'])">
@@ -35,8 +35,8 @@
 </span></p>
 
 <p>Chest<span>
-  <input value="chest discomfort" type="button" onClick="showTime(['Acute_Bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="chest pain" type="button" onClick="showTime(['Acute_Bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="chest discomfort" type="button" onClick="showTime(['Acute_bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="chest pain" type="button" onClick="showTime(['Acute_bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
 </span></p>
 
@@ -70,7 +70,7 @@
   <input value="chills" type="button" onClick="showTime(['Influenza', 'Monkeypox', 'Pneumonia']);">
   <input value="dizziness" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="fainting" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="fatigue" type="button" onClick="showTime(['Acute_Bronchitis', 'Monkeypox', 'Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="fatigue" type="button" onClick="showTime(['Acute_bronchitis', 'Monkeypox', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="feeling extremely cold" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="feeling extremely hot" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="loss of energy for longer than a few weeks" type="button" onClick="showTime(['Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
@@ -114,17 +114,17 @@
   <input value="a dry cough" type="button" onClick="showTime(['Cold', 'Influenza'])">
   <input value="breathing difficulties" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="coated tonsils" type="button" onClick="showTime(['Rheumatic_fever']);">
-  <input value="coughing a sticky mucus" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma']);">
+  <input value="coughing a sticky mucus" type="button" onClick="showTime(['Acute_bronchitis', 'Asthma']);">
   <input value="coughing stomach acid" type="button" onClick="showTime(['Gastroesophageal_reflux_disease'])">
   <input value="difficulty swallowing" type="button" onClick="showTime(['Rheumatic_fever']);">
-  <input value="dry cough lasting a few days" type="button" onClick="showTime(['Airway_Blockage', 'Irritant_Dust', 'IrritantFumes', 'IrritantChemicals']);">
-  <input value="dry cough lasting a few weeks" type="button" onClick="showTime(['ACE_Inhibitors', 'Asthma', 'Bronchospasm', 'Viral_Illnesses']);">
+  <input value="dry cough lasting a few days" type="button" onClick="showTime(['Airway_blockage', 'Irritant_dust', 'IrritantFumes', 'IrritantChemicals']);">
+  <input value="dry cough lasting a few weeks" type="button" onClick="showTime(['ACE_inhibitors', 'Asthma', 'Bronchospasm', 'Viral_illnesses']);">
   <input value="enlarged tonsils" type="button" onClick="showTime(['Rheumatic_fever']);">
-  <input value="shortness of breath" type="button" onClick="showTime(['Acute_Bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="shortness of breath" type="button" onClick="showTime(['Acute_bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="smokers cough" type="button" onClick="showTime(['Lung_Damage']);">
   <input value="tickly cough" type="button" onClick="showTime(['Allergies']);">
   <input value="vomiting" type="button" onClick="showTime(['Influenza']);">
-  <input value="wheezing" type="button" onClick="showTime(['Acute_Bronchitis']);">
+  <input value="wheezing" type="button" onClick="showTime(['Acute_bronchitis']);">
 </span></p>
 
 <p>Neck<span>
@@ -150,11 +150,11 @@
 </span></p>
 
 <p>Throat<span>
-  <input value="mucus cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma', 'Viral_Illnesses']);">
-  <input value="phlegm cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma', 'Viral_Illnesses']);">
+  <input value="mucus cough" type="button" onClick="showTime(['Acute_bronchitis', 'Asthma', 'Viral_illnesses']);">
+  <input value="phlegm cough" type="button" onClick="showTime(['Acute_bronchitis', 'Asthma', 'Viral_illnesses']);">
   <input value="scratchy" type="button" onClick="showTime(['Cold']);">
   <input value="soreness lasting a few days" type="button" onClick="showTime(['Glandular_fever', 'Influenza', 'Scarlet_fever', 'Rheumatic_fever']);">
-  <input value="sputnum cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Allergies', 'Influenza', 'Viral_Illnesses']);">
+  <input value="sputnum cough" type="button" onClick="showTime(['Acute_bronchitis', 'Allergies', 'Influenza', 'Viral_illnesses']);">
 </span></p>
 
 <!-- Health condition -->
