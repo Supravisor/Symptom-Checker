@@ -118,10 +118,10 @@
   <input value="coughing stomach acid" type="button" onClick="showTime(['Gastroesophageal_reflux_disease'])">
   <input value="difficulty swallowing" type="button" onClick="showTime(['Rheumatic_fever']);">
   <input value="dry cough lasting a few days" type="button" onClick="showTime(['AirwayBlockage', 'IrritantDust', 'IrritantFumes', 'IrritantChemicals']);">
-  <input value="dry cough lasting a few weeks" type="button" onClick="showTime(['ACE Inhibitors', 'Asthma', 'Bronchospasm', 'ViralIllnesses']);">
+  <input value="dry cough lasting a few weeks" type="button" onClick="showTime(['ACE_Inhibitors', 'Asthma', 'Bronchospasm', 'Viral_Illnesses']);">
   <input value="enlarged tonsils" type="button" onClick="showTime(['Rheumatic_fever']);">
   <input value="shortness of breath" type="button" onClick="showTime(['Acute_Bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="smokers cough" type="button" onClick="showTime(['Lung Damage']);">
+  <input value="smokers cough" type="button" onClick="showTime(['Lung_Damage']);">
   <input value="tickly cough" type="button" onClick="showTime(['Allergies']);">
   <input value="vomiting" type="button" onClick="showTime(['Influenza']);">
   <input value="wheezing" type="button" onClick="showTime(['Acute_Bronchitis']);">
@@ -150,11 +150,11 @@
 </span></p>
 
 <p>Throat<span>
-  <input value="mucus cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma', 'ViralIllnesses']);">
-  <input value="phlegm cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma', 'ViralIllnesses']);">
+  <input value="mucus cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma', 'Viral_Illnesses']);">
+  <input value="phlegm cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Asthma', 'Viral_Illnesses']);">
   <input value="scratchy" type="button" onClick="showTime(['Cold']);">
   <input value="soreness lasting a few days" type="button" onClick="showTime(['Glandular_fever', 'Influenza', 'Scarlet_fever', 'Rheumatic_fever']);">
-  <input value="sputnum cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Allergies', 'Influenza', 'ViralIllnesses']);">
+  <input value="sputnum cough" type="button" onClick="showTime(['Acute_Bronchitis', 'Allergies', 'Influenza', 'Vira_Illnesses']);">
 </span></p>
 
 <!-- Health condition -->
