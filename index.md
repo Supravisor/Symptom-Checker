@@ -105,9 +105,9 @@
 </span></p>
 
 <p>Lungs<span>
-  <input value="phlegm cough" type="button" onClick="showTime(['Bronchitis', 'ChronicObstructivePulmonaryDisease', 'Pneumonia', 'Tuberculosis']);">
-  <input value="mucus cough" type="button" onClick="showTime(['Bronchitis', 'ChronicObstructivePulmonaryDisease', 'Pneumonia', 'Tuberculosis']);">
-  <input value="sputnum cough" type="button" onClick="showTime(['Bronchitis', 'ChronicObstructivePulmonaryDisease', 'Pneumonia', Tuberculosis]);">
+  <input value="phlegm cough" type="button" onClick="showTime(['Bronchitis', 'Chronic_obstructive_pulmonary_disease', 'Pneumonia', 'Tuberculosis']);">
+  <input value="mucus cough" type="button" onClick="showTime(['Bronchitis', 'Chronic_obstructive_pulmonary_disease', 'Pneumonia', 'Tuberculosis']);">
+  <input value="sputnum cough" type="button" onClick="showTime(['Bronchitis', 'Chronic_obstructive_pulmonary_disease', 'Pneumonia', Tuberculosis]);">
 </span></p>
 
 <p>Mouth<span>
@@ -117,11 +117,11 @@
   <input value="coughing a sticky mucus" type="button" onClick="showTime(['Acute_bronchitis', 'Asthma']);">
   <input value="coughing stomach acid" type="button" onClick="showTime(['Gastroesophageal_reflux_disease'])">
   <input value="difficulty swallowing" type="button" onClick="showTime(['Rheumatic_fever']);">
-  <input value="dry cough lasting a few days" type="button" onClick="showTime(['Airway_blockage', 'Irritant_dust', 'IrritantFumes', 'IrritantChemicals']);">
+  <input value="dry cough lasting a few days" type="button" onClick="showTime(['Airway_blockage', 'Irritant_dust', 'Irritant_fumes', 'Irritant_chemicals']);">
   <input value="dry cough lasting a few weeks" type="button" onClick="showTime(['ACE_inhibitors', 'Asthma', 'Bronchospasm', 'Viral_illnesses']);">
   <input value="enlarged tonsils" type="button" onClick="showTime(['Rheumatic_fever']);">
   <input value="shortness of breath" type="button" onClick="showTime(['Acute_bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="smokers cough" type="button" onClick="showTime(['Lung_Damage']);">
+  <input value="smokers cough" type="button" onClick="showTime(['Lung_damage']);">
   <input value="tickly cough" type="button" onClick="showTime(['Allergies']);">
   <input value="vomiting" type="button" onClick="showTime(['Influenza']);">
   <input value="wheezing" type="button" onClick="showTime(['Acute_bronchitis']);">
