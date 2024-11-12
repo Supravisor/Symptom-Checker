@@ -162,6 +162,8 @@
 <br />
 <div id="condition"></div>
 
+<div id="information"></div>
+
 </form>
 
 <script src="script.js"></script>
