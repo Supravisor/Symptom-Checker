@@ -1,5 +1,6 @@
 
 const condition = document.getElementById("condition");
+const information = document.getElementById("information");
 
 let array = [];
 
