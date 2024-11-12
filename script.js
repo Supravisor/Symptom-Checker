@@ -1,5 +1,6 @@
 
 const condition = document.getElementById("condition");
+const information = document.getElementById("information");
 
 let array = [];
 
@@ -13,5 +14,8 @@ function showTime(arg) {
 
   condition.innerHTML = sorted.map(el => `<input value="${el.replace(/_/g, ' ')}" type="button" onClick="showInfo('${el}')">`).join("");
 
+  
   return array = sorted;
 }
+
+const showInfo = info => information.innerHTML = `<iframe src="https://en.wikipedia.org/wiki/${info}"></iframe>`;
