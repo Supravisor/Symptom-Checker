@@ -117,7 +117,7 @@
   <input value="coughing a sticky mucus" type="button" onClick="showTime(['Acute_bronchitis', 'Asthma']);">
   <input value="coughing stomach acid" type="button" onClick="showTime(['Gastroesophageal_reflux_disease'])">
   <input value="difficulty swallowing" type="button" onClick="showTime(['Rheumatic_fever']);">
-  <input value="dry cough lasting a few days" type="button" onClick="showTime(['Airway_blockage', 'Irritant_dust', 'Irritant_fumes', 'Irritant_chemicals']);">
+  <input value="dry cough lasting a few days" type="button" onClick="showTime(['Airway_obstruction', 'Irritant_dust', 'Irritant_fumes', 'Irritant_chemicals']);">
   <input value="dry cough lasting a few weeks" type="button" onClick="showTime(['ACE_inhibitors', 'Asthma', 'Bronchospasm', 'Viral_illnesses']);">
   <input value="enlarged tonsils" type="button" onClick="showTime(['Rheumatic_fever']);">
   <input value="shortness of breath" type="button" onClick="showTime(['Acute_bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
