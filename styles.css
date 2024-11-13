@@ -25,6 +25,7 @@ input {
 
 iframe {
   border: 1px solid black;
+  border-radius: 8px;
   height: 80vh;
   width: 100%;
 }
