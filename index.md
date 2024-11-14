@@ -122,7 +122,7 @@
   <input value="enlarged tonsils" type="button" onClick="showTime(['Rheumatic_fever']);">
   <input value="shortness of breath" type="button" onClick="showTime(['Acute_bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="smokers cough" type="button" onClick="showTime(['Lung_damage']);">
-  <input value="tickly cough" type="button" onClick="showTime(['Allergies']);">
+  <input value="tickly cough" type="button" onClick="showTime(['Allergy']);">
   <input value="vomiting" type="button" onClick="showTime(['Influenza']);">
   <input value="wheezing" type="button" onClick="showTime(['Acute_bronchitis']);">
 </span></p>
@@ -154,7 +154,7 @@
   <input value="phlegm cough" type="button" onClick="showTime(['Acute_bronchitis', 'Asthma', 'Viral_illnesses']);">
   <input value="scratchy" type="button" onClick="showTime(['Common_cold']);">
   <input value="soreness lasting a few days" type="button" onClick="showTime(['Glandular_fever', 'Influenza', 'Scarlet_fever', 'Rheumatic_fever']);">
-  <input value="sputnum cough" type="button" onClick="showTime(['Acute_bronchitis', 'Allergies', 'Influenza', 'Viral_illnesses']);">
+  <input value="sputnum cough" type="button" onClick="showTime(['Acute_bronchitis', 'Allergy', 'Influenza', 'Viral_illnesses']);">
 </span></p>
 
 <!-- Health condition -->
