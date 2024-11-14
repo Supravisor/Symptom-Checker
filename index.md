@@ -17,14 +17,14 @@
 </span></p>
 
 <p>Body<span>
-  <input value="body aches" type="button" onClick="showTime(['Influenza', 'Monkeypox'])">
+  <input value="body aches" type="button" onClick="showTime(['Influenza', 'Mpox'])">
   <input value="body pains" type="button" onClick="showTime(['Influenza']);">
   <input value="fever" type="button" onClick="showTime(['Acute_bronchitis', 'Glandular_fever', 'Influenza']);">
   <input value="high fever" type="button" onClick="showTime(['Influenza', 'Pneumonia']);">
   <input value="joint pain" type="button" onClick="showTime(['Glandular_fever', 'Rheumatic_fever']);">
-  <input value="lesion anywhere" type="button" onClick="showTime(['Monkeypox'])">
+  <input value="lesion anywhere" type="button" onClick="showTime(['Mpox'])">
   <input value="muscle twitches" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="rash anywhere" type="button" onClick="showTime(['Monkeypox']);">
+  <input value="rash anywhere" type="button" onClick="showTime(['Mpox']);">
   <input value="red skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
   <input value="shaking body" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
@@ -60,17 +60,17 @@
 </span></p>
 
 <p>Face<span>
-  <input value="lesion" type="button" onClick="showTime(['Monkeypox']);">
-  <input value="rash" type="button" onClick="showTime(['Monkeypox']);">
+  <input value="lesion" type="button" onClick="showTime(['Mpox']);">
+  <input value="rash" type="button" onClick="showTime(['Mpox']);">
 </span></p>
 
 <p>Feelings<span>
   <input value="almost fainting" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="anxiety" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="chills" type="button" onClick="showTime(['Influenza', 'Monkeypox', 'Pneumonia']);">
+  <input value="chills" type="button" onClick="showTime(['Influenza', 'Mpox', 'Pneumonia']);">
   <input value="dizziness" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="fainting" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="fatigue" type="button" onClick="showTime(['Acute_bronchitis', 'Monkeypox', 'Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="fatigue" type="button" onClick="showTime(['Acute_bronchitis', 'Mpox', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="feeling extremely cold" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="feeling extremely hot" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="loss of energy for longer than a few weeks" type="button" onClick="showTime(['Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
@@ -86,8 +86,8 @@
 </span></p>
 
 <p>Hands<span>
-  <input value="lesion" type="button" onClick="showTime(['Monkeypox']);">
-  <input value="rash" type="button" onClick="showTime(['Monkeypox']);">
+  <input value="lesion" type="button" onClick="showTime(['Mpox']);">
+  <input value="rash" type="button" onClick="showTime(['Mpox']);">
   <input value="tingling hands" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
 </span></p>
 
