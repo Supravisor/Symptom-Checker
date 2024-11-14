@@ -135,7 +135,7 @@
 
 <p>Nose<span>
   <input value="blocked" type="button" onClick="showTime(['Common_cold', 'Influenza']);">
-  <input value="runny" type="button" onClick="showTime(['Common cold', 'Influenza']);">
+  <input value="runny" type="button" onClick="showTime(['Common_cold', 'Influenza']);">
   <input value="sneezing" type="button" onClick="showTime(['Common_cold', 'Influenza']);">
   <input value="stuffy" type="button" onClick="showTime(['Common_cold', 'Influenza']);">
 </span></p>
