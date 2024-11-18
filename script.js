@@ -12,7 +12,8 @@ function showTime(arg) {
     return a == b ? 0 : a < b ? -1 : 1;
   });;
 
-  condition.innerHTML = sorted.map(el => `<input value="${el.replace(/_/g, ' ')}" type="button" onClick="showInfo('${el}')">`).join("");
+  condition.innerHTML = `<div>Click on a button below to show a Wikipedia article for the health condition or issue.</div>`;
+  condition.innerHTML += sorted.map(el => `<input value="${el.replace(/_/g, ' ')}" type="button" onClick="showInfo('${el}')">`).join("");
 
   
   return array = sorted;
