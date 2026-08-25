@@ -82,7 +82,7 @@
 
 <p>Feet<span>
   <input value="tingling feet" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="trouble walking" type="button" onClick="showTime(['Cerebellar_infarction']);">
+  <input value="trouble walking" type="button" onClick="showTime(['Cerebellar_stroke_syndrome']);">
   <input value="walking long distance is difficult" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
 </span></p>
 
