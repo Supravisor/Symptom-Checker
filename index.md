@@ -55,6 +55,7 @@
 </span></p>
 
 <p>Eyes<span>
+  <input value="double vision" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="blurred vision" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="light sensitivity" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="trouble with eye movements" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
