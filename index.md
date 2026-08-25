@@ -24,6 +24,7 @@
   <input value="joint pain" type="button" onClick="showTime(['Glandular_fever', 'Rheumatic_fever']);">
   <input value="lesion anywhere" type="button" onClick="showTime(['Mpox'])">
   <input value="loss of balance" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
+  <input value="loss of coordination" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="muscle twitches" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="rash anywhere" type="button" onClick="showTime(['Mpox']);">
   <input value="red skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
