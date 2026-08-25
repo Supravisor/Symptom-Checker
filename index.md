@@ -101,6 +101,7 @@
   <input value="headache" type="button" onClick="showTime(['Common_cold', 'Glandular_fever', 'Influenza', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="light headedness" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="migraines" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="severe headache" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
 </span></p>
 
 <p>Heart<span>
