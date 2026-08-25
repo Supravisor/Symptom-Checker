@@ -76,7 +76,7 @@
   <input value="feeling extremely cold" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="feeling extremely hot" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="loss of energy for longer than a few weeks" type="button" onClick="showTime(['Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="nausea" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="nausea" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome', 'Cerebellar_stroke_syndrome']);">
   <input value="sleeping difficulty" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="tiredness" type="button" onClick="showTime(['Common_cold', 'Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="unwell for longer than a few weeks" type="button" onClick="showTime(['Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
