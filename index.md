@@ -127,6 +127,7 @@
   <input value="dry cough lasting a few weeks" type="button" onClick="showTime(['ACE_inhibitor', 'Asthma', 'Bronchospasm', 'Virus']);">
   <input value="enlarged tonsils" type="button" onClick="showTime(['Rheumatic_fever']);">
   <input value="shortness of breath" type="button" onClick="showTime(['Acute_bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="slurred speech " type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="smokers cough" type="button" onClick="showTime(['Chronic_obstructive_pulmonary_disease']);">
   <input value="tickly cough" type="button" onClick="showTime(['Allergy']);">
   <input value="vomiting" type="button" onClick="showTime(['Influenza', 'Cerebellar_stroke_syndrome']);">
