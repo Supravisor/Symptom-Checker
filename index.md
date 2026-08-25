@@ -23,6 +23,8 @@
   <input value="high fever" type="button" onClick="showTime(['Influenza', 'Pneumonia']);">
   <input value="joint pain" type="button" onClick="showTime(['Glandular_fever', 'Rheumatic_fever']);">
   <input value="lesion anywhere" type="button" onClick="showTime(['Mpox'])">
+  <input value="loss of balance" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
+  <input value="loss of coordination" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="muscle twitches" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="rash anywhere" type="button" onClick="showTime(['Mpox']);">
   <input value="red skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
@@ -53,8 +55,10 @@
 </span></p>
 
 <p>Eyes<span>
+  <input value="double vision" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="blurred vision" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="light sensitivity" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="trouble with eye movements" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="tunnel vision" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="watery" type="button" onClick="showTime(['Common_cold']);">
 </span></p>
@@ -74,7 +78,7 @@
   <input value="feeling extremely cold" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="feeling extremely hot" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="loss of energy for longer than a few weeks" type="button" onClick="showTime(['Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="nausea" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="nausea" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome', 'Cerebellar_stroke_syndrome']);">
   <input value="sleeping difficulty" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="tiredness" type="button" onClick="showTime(['Common_cold', 'Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="unwell for longer than a few weeks" type="button" onClick="showTime(['Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
@@ -82,10 +86,12 @@
 
 <p>Feet<span>
   <input value="tingling feet" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="trouble walking" type="button" onClick="showTime(['Cerebellar_stroke_syndrome']);">
   <input value="walking long distance is difficult" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
 </span></p>
 
 <p>Hands<span>
+  <input value="difficulty with hand movements" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="lesion" type="button" onClick="showTime(['Mpox']);">
   <input value="rash" type="button" onClick="showTime(['Mpox']);">
   <input value="tingling hands" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
@@ -98,6 +104,7 @@
   <input value="headache" type="button" onClick="showTime(['Common_cold', 'Glandular_fever', 'Influenza', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="light headedness" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="migraines" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="severe headache" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
 </span></p>
 
 <p>Heart<span>
@@ -121,9 +128,10 @@
   <input value="dry cough lasting a few weeks" type="button" onClick="showTime(['ACE_inhibitor', 'Asthma', 'Bronchospasm', 'Virus']);">
   <input value="enlarged tonsils" type="button" onClick="showTime(['Rheumatic_fever']);">
   <input value="shortness of breath" type="button" onClick="showTime(['Acute_bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="slurred speech " type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="smokers cough" type="button" onClick="showTime(['Chronic_obstructive_pulmonary_disease']);">
   <input value="tickly cough" type="button" onClick="showTime(['Allergy']);">
-  <input value="vomiting" type="button" onClick="showTime(['Influenza']);">
+  <input value="vomiting" type="button" onClick="showTime(['Influenza', 'Cerebellar_stroke_syndrome']);">
   <input value="wheezing" type="button" onClick="showTime(['Acute_bronchitis']);">
 </span></p>
 
