@@ -1,6 +1,8 @@
 
 <link href="./styles.css" rel="stylesheet" />
 
+<p>Use the symptom checker to find what condition, disease, or health issue you may be experiencing.</p>
+<p><strong>Note</strong> that this a not a diagnostic tool.  Seek expert advice from a trained and certified health care professional before making any decisions.</p><br />
 <p>Click on the button below which matches the symptom or symptoms you may be experiencing.</p>
 <p>In the section at the bottom of the page a cell may populate with the health issues that may match the symptom.</p>
 
