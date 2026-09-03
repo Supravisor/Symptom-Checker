@@ -35,6 +35,7 @@
   <input value="less sweating than usual" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="loss of balance" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="loss of coordination" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
+  <input value="loss of muscle control" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="muscle twitches" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="rash anywhere" type="button" onClick="showTime(['Mpox']);">
   <input value="red skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
