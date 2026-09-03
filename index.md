@@ -12,6 +12,10 @@
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever'])">
   </span></p>
 
+<p>Adult female<span>
+  <input value="fertility problems" type="button" onClick="showTime(['Hypothyroidism']);">
+</span></p>
+
 <p>Arms<span>
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
 </span></p>
