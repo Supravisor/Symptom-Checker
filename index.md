@@ -32,6 +32,7 @@
   <input value="high fever" type="button" onClick="showTime(['Influenza', 'Pneumonia']);">
   <input value="joint pain" type="button" onClick="showTime(['Glandular_fever', 'Rheumatic_fever', 'Hypothyroidism']);">
   <input value="lesion anywhere" type="button" onClick="showTime(['Mpox'])">
+  <input value="less sweating than usual" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="loss of balance" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="loss of coordination" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="muscle twitches" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
