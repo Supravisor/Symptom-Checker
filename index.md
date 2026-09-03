@@ -15,6 +15,7 @@
 <p>Adult female<span>
   <input value="fertility problems" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="heavier menstrual cycle" type="button" onClick="showTime(['Hypothyroidism']);">
+  <input value="irregular menstrual cycle" type="button" onClick="showTime(['Hypothyroidism']);">
 </span></p>
 
 <p>Arms<span>
