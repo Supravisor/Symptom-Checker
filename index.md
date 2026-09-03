@@ -19,6 +19,7 @@
 <p>Body<span>
   <input value="body aches" type="button" onClick="showTime(['Influenza', 'Mpox'])">
   <input value="body pains" type="button" onClick="showTime(['Influenza']);">
+  <input value="dry skin" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="fever" type="button" onClick="showTime(['Acute_bronchitis', 'Glandular_fever', 'Influenza']);">
   <input value="high fever" type="button" onClick="showTime(['Influenza', 'Pneumonia']);">
   <input value="joint pain" type="button" onClick="showTime(['Glandular_fever', 'Rheumatic_fever']);">
