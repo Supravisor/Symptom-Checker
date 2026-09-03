@@ -1,6 +1,8 @@
 
 <link href="./styles.css" rel="stylesheet" />
 
+<p>Use the symptom checker to find what condition, disease, or health issue you may be experiencing.</p>
+<p><strong>Note</strong> that this a not a diagnostic tool.  Seek expert advice from a trained and certified health care professional before making any decisions.</p><br />
 <p>Click on the button below which matches the symptom or symptoms you may be experiencing.</p>
 <p>In the section at the bottom of the page a cell may populate with the health issues that may match the symptom.</p>
 
@@ -12,6 +14,12 @@
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever'])">
   </span></p>
 
+<p>Adult female<span>
+  <input value="fertility problems" type="button" onClick="showTime(['Hypothyroidism']);">
+  <input value="heavier menstrual cycle" type="button" onClick="showTime(['Hypothyroidism']);">
+  <input value="irregular menstrual cycle" type="button" onClick="showTime(['Hypothyroidism']);">
+</span></p>
+
 <p>Arms<span>
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
 </span></p>
@@ -19,9 +27,10 @@
 <p>Body<span>
   <input value="body aches" type="button" onClick="showTime(['Influenza', 'Mpox'])">
   <input value="body pains" type="button" onClick="showTime(['Influenza']);">
+  <input value="dry skin" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="fever" type="button" onClick="showTime(['Acute_bronchitis', 'Glandular_fever', 'Influenza']);">
   <input value="high fever" type="button" onClick="showTime(['Influenza', 'Pneumonia']);">
-  <input value="joint pain" type="button" onClick="showTime(['Glandular_fever', 'Rheumatic_fever']);">
+  <input value="joint pain" type="button" onClick="showTime(['Glandular_fever', 'Rheumatic_fever', 'Hypothyroidism']);">
   <input value="lesion anywhere" type="button" onClick="showTime(['Mpox'])">
   <input value="loss of balance" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="loss of coordination" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
