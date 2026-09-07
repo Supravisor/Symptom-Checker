@@ -41,6 +41,7 @@
   <input value="muscle stiffness" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="muscle tenderness" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="muscle twitches" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="muscle weakness" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="rash anywhere" type="button" onClick="showTime(['Mpox']);">
   <input value="red skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
   <input value="shaking body" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
