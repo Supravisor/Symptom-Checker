@@ -32,9 +32,16 @@
   <input value="high fever" type="button" onClick="showTime(['Influenza', 'Pneumonia']);">
   <input value="joint pain" type="button" onClick="showTime(['Glandular_fever', 'Rheumatic_fever', 'Hypothyroidism']);">
   <input value="lesion anywhere" type="button" onClick="showTime(['Mpox'])">
+  <input value="less sweating than usual" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="loss of balance" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="loss of coordination" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
+  <input value="loss of muscle control" type="button" onClick="showTime(['Hypothyroidism'])">
+  <input value="muscle ache" type="button" onClick="showTime(['Hypothyroidism'])">
+  <input value="muscle pain" type="button" onClick="showTime(['Hypothyroidism'])">
+  <input value="muscle stiffness" type="button" onClick="showTime(['Hypothyroidism'])">
+  <input value="muscle tenderness" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="muscle twitches" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="muscle weakness" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="rash anywhere" type="button" onClick="showTime(['Mpox']);">
   <input value="red skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
   <input value="shaking body" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
