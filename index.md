@@ -52,6 +52,7 @@
   <input value="temperature of 37C" type="button" onClick="showTime(['Common_cold']);">
   <input value="temperature above 37C" type="button" onClick="showTime(['Influenza']);">
   <input value="temperature above 39C" type="button" onClick="showTime(['Influenza', 'Rheumatic_fever']);">
+  <input value="weight gain" type="button" onClick="showTime(['Hypothyroidism'])">
 </span></p>
 
 <p>Chest<span>
