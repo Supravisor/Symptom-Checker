@@ -42,14 +42,17 @@
   <input value="muscle tenderness" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="muscle twitches" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="muscle weakness" type="button" onClick="showTime(['Hypothyroidism'])">
+  <input value="pale skin" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="rash anywhere" type="button" onClick="showTime(['Mpox']);">
   <input value="red skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
+  <input value="rough skin" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="shaking body" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
   <input value="sweating excessively" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="temperature of 37C" type="button" onClick="showTime(['Common_cold']);">
   <input value="temperature above 37C" type="button" onClick="showTime(['Influenza']);">
   <input value="temperature above 39C" type="button" onClick="showTime(['Influenza', 'Rheumatic_fever']);">
+  <input value="weight gain" type="button" onClick="showTime(['Hypothyroidism'])">
 </span></p>
 
 <p>Chest<span>
