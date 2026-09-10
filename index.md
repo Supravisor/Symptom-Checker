@@ -84,6 +84,7 @@
 
 <p>Face<span>
   <input value="lesion" type="button" onClick="showTime(['Mpox']);">
+  <input value="puffy face" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="rash" type="button" onClick="showTime(['Mpox']);">
 </span></p>
 
