@@ -62,7 +62,7 @@
 </span></p>
 
 <p>Digestive system<span>
-  <input value="constipation" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="constipation" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome', 'Hypothyroidism']);">
   <input value="diarrhoea" type="button" onClick="showTime(['Influenza', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="irritable bowel syndrome" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
 </span></p>
