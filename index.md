@@ -93,6 +93,7 @@
   <input value="anxiety" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="burning feeling" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="chills" type="button" onClick="showTime(['Influenza', 'Mpox', 'Pneumonia']);">
+  <input value="depression" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="dizziness" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="fainting" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="fatigue" type="button" onClick="showTime(['Acute_bronchitis', 'Mpox', 'Postural_orthostatic_tachycardia_syndrome']);">
