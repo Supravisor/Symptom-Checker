@@ -93,14 +93,18 @@
   <input value="anxiety" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="burning feeling" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="chills" type="button" onClick="showTime(['Influenza', 'Mpox', 'Pneumonia']);">
+  <input value="depressed" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="depression" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="dizziness" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="fainting" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="fatigue" type="button" onClick="showTime(['Acute_bronchitis', 'Mpox', 'Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="fatigue" type="button" onClick="showTime(['Acute_bronchitis', 'Hypothyroidism', 'Mpox', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="feeling extremely cold" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="feeling extremely hot" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="loss of energy for longer than a few weeks" type="button" onClick="showTime(['Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="loss of feeling" type="button" onClick="showTime(['Hypothyroidism']);">
+  <input value="mood changes" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="nausea" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome', 'Cerebellar_stroke_syndrome']);">
+  <input value="sad" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="sleeping difficulty" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="tiredness" type="button" onClick="showTime(['Common_cold', 'Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="unwell for longer than a few weeks" type="button" onClick="showTime(['Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
