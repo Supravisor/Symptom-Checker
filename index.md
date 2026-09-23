@@ -97,7 +97,7 @@
   <input value="depression" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="dizziness" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="fainting" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
-  <input value="fatigue" type="button" onClick="showTime(['Acute_bronchitis', 'Mpox', 'Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="fatigue" type="button" onClick="showTime(['Acute_bronchitis', 'Hypothyroidism', 'Mpox', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="feeling extremely cold" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="feeling extremely hot" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="loss of energy for longer than a few weeks" type="button" onClick="showTime(['Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
