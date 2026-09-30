@@ -124,7 +124,7 @@
   <input value="lesion" type="button" onClick="showTime(['Mpox']);">
   <input value="numbness" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="rash" type="button" onClick="showTime(['Mpox']);">
-  <input value="tingling hands" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="tingling hands" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome', 'Hypothyroidism']);">
 </span></p>
 
 <p>Head<span>
