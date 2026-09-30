@@ -105,8 +105,10 @@
   <input value="mood changes" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="nausea" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome', 'Cerebellar_stroke_syndrome']);">
   <input value="sad" type="button" onClick="showTime(['Hypothyroidism']);">
+  <input value="sensitive to cold" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="sleeping difficulty" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="tiredness" type="button" onClick="showTime(['Common_cold', 'Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="very tired" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="unwell for longer than a few weeks" type="button" onClick="showTime(['Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
 </span></p>
 
@@ -117,10 +119,12 @@
 </span></p>
 
 <p>Hands<span>
+  <input value="brittle nails" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="difficulty with hand movements" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="lesion" type="button" onClick="showTime(['Mpox']);">
+  <input value="numbness" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="rash" type="button" onClick="showTime(['Mpox']);">
-  <input value="tingling hands" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="tingling hands" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome', 'Hypothyroidism']);">
 </span></p>
 
 <p>Head<span>
