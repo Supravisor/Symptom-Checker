@@ -108,6 +108,7 @@
   <input value="sensitive to cold" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="sleeping difficulty" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="tiredness" type="button" onClick="showTime(['Common_cold', 'Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="very tired" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="unwell for longer than a few weeks" type="button" onClick="showTime(['Glandular_fever', 'Postural_orthostatic_tachycardia_syndrome']);">
 </span></p>
 
