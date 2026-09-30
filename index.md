@@ -122,6 +122,7 @@
   <input value="brittle nails" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="difficulty with hand movements" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="lesion" type="button" onClick="showTime(['Mpox']);">
+  <input value="numbness" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="rash" type="button" onClick="showTime(['Mpox']);">
   <input value="tingling hands" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
 </span></p>
