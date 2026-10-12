@@ -128,8 +128,9 @@
 </span></p>
 
 <p>Head<span>
-  <input value="brain fog" name="brain fog" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome', 'Hypothyroidism']);">
+  <input value="brain fog" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome', 'Hypothyroidism']);">
   <input value="cognitive issues" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="dry hair" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="flushed cheeks" type="button" onClick="showTime(['Scarlet_fever']);">
   <input value="headache" type="button" onClick="showTime(['Common_cold', 'Glandular_fever', 'Influenza', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="light headedness" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
