@@ -137,7 +137,8 @@
   <input value="memory problems" type="button" onClick="showTime(['Hypothyroidism'])">
   <input value="migraines" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
   <input value="severe headache" type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
-</span></p>
+</span>
+  <input value="thinning hair" type="button" onClick="showTime(['Hypothyroidism'])"></p>
 
 <p>Heart<span>
   <input value="heart palpitations" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
