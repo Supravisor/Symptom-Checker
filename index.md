@@ -141,6 +141,7 @@
 
 <p>Heart<span>
   <input value="heart palpitations" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="heart palpitations" type="button" onClick="showTime(['Hypothyroidism']);">
 </span></p>
 
 <p>Lungs<span>
