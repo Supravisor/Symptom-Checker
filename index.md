@@ -159,8 +159,11 @@
   <input value="difficulty swallowing" type="button" onClick="showTime(['Rheumatic_fever']);">
   <input value="dry cough lasting a few days" type="button" onClick="showTime(['Airway_obstruction', 'Occupational_asthma', 'Chemical_hazard']);">
   <input value="dry cough lasting a few weeks" type="button" onClick="showTime(['ACE_inhibitor', 'Asthma', 'Bronchospasm', 'Virus']);">
+  <input value="enlarged tongue" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="enlarged tonsils" type="button" onClick="showTime(['Rheumatic_fever']);">
+  <input value="hoarse voice" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="shortness of breath" type="button" onClick="showTime(['Acute_bronchitis', 'Postural_orthostatic_tachycardia_syndrome']);">
+  <input value="slowed speech" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="slurred speech " type="button" onClick="showTime(['Cerebellar_stroke_syndrome'])">
   <input value="smokers cough" type="button" onClick="showTime(['Chronic_obstructive_pulmonary_disease']);">
   <input value="tickly cough" type="button" onClick="showTime(['Allergy']);">
