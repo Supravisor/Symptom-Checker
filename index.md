@@ -176,6 +176,7 @@
   <input value="pain" type="button" onClick="showTime(['Rheumatic_fever']);">
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
   <input value="swollen glands" type="button" onClick="showTime(['Glandular_fever']);">
+  <input value="swollen" type="button" onClick="showTime(['Hypothyroidism']);">
 </span></p>
 
 <p>Nose<span>
