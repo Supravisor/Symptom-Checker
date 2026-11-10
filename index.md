@@ -168,6 +168,7 @@
   <input value="smokers cough" type="button" onClick="showTime(['Chronic_obstructive_pulmonary_disease']);">
   <input value="tickly cough" type="button" onClick="showTime(['Allergy']);">
   <input value="vomiting" type="button" onClick="showTime(['Influenza', 'Cerebellar_stroke_syndrome']);">
+  <input value="trouble with breathing" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="wheezing" type="button" onClick="showTime(['Acute_bronchitis']);">
 </span></p>
 
