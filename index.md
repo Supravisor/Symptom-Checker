@@ -201,6 +201,7 @@
   <input value="scratchy" type="button" onClick="showTime(['Common_cold']);">
   <input value="soreness lasting a few days" type="button" onClick="showTime(['Glandular_fever', 'Influenza', 'Scarlet_fever', 'Rheumatic_fever']);">
   <input value="sputnum cough" type="button" onClick="showTime(['Acute_bronchitis', 'Allergy', 'Influenza', 'Virus']);">
+  <input value="trouble swallowing" type="button" onClick="showTime(['Hypothyroidism']);">
 </span></p>
 
 <!-- Health condition -->
