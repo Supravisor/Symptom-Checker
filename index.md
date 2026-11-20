@@ -20,6 +20,10 @@
   <input value="irregular menstrual cycle" type="button" onClick="showTime(['Hypothyroidism']);">
 </span></p>
 
+<p>Age<span>
+  <input value="older than 60 years of age" type="button" onClick="showTime(['Hypothyroidism']);">
+</span></p>
+
 <p>Arms<span>
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
 </span></p>
