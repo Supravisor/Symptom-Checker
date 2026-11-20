@@ -20,6 +20,10 @@
   <input value="irregular menstrual cycle" type="button" onClick="showTime(['Hypothyroidism']);">
 </span></p>
 
+<p>Age<span>
+  <input value="older than 60 years of age" type="button" onClick="showTime(['Hypothyroidism']);">
+</span></p>
+
 <p>Arms<span>
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
 </span></p>
@@ -173,6 +177,7 @@
 </span></p>
 
 <p>Neck<span>
+  <input value="consume too much iodine" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="pain" type="button" onClick="showTime(['Rheumatic_fever']);">
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
   <input value="swollen glands" type="button" onClick="showTime(['Glandular_fever']);">
@@ -184,6 +189,15 @@
   <input value="runny" type="button" onClick="showTime(['Common_cold', 'Influenza']);">
   <input value="sneezing" type="button" onClick="showTime(['Common_cold', 'Influenza']);">
   <input value="stuffy" type="button" onClick="showTime(['Common_cold', 'Influenza']);">
+</span></p>
+
+<p>Pancreas<span>
+  <input value="type 1 diabetes" type="button" onClick="showTime(['Hypothyroidism']);">
+</span></p>
+
+<p>Pregnancy<span>
+  <input value="have been pregnant within the past 6 months" type="button" onClick="showTime(['Hypothyroidism']);">
+  <input value="had a baby within the past 6 months" type="button" onClick="showTime(['Hypothyroidism']);">
 </span></p>
 
 <p>Stomach<span>
