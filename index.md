@@ -173,6 +173,7 @@
 </span></p>
 
 <p>Neck<span>
+  <input value="consume too much iodine" type="button" onClick="showTime(['Hypothyroidism']);">
   <input value="pain" type="button" onClick="showTime(['Rheumatic_fever']);">
   <input value="skin rash" type="button" onClick="showTime(['Scarlet_fever']);">
   <input value="swollen glands" type="button" onClick="showTime(['Glandular_fever']);">
