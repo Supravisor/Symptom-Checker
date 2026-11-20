@@ -186,6 +186,10 @@
   <input value="stuffy" type="button" onClick="showTime(['Common_cold', 'Influenza']);">
 </span></p>
 
+<p>Pancreas<span>
+  <input value="type 1 diabetes" type="button" onClick="showTime(['Hypothyroidism']);">
+</span></p>
+
 <p>Stomach<span>
   <input value="aches" type="button" onClick="showTime(['Influenza', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="bloating" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
