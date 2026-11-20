@@ -195,6 +195,10 @@
   <input value="type 1 diabetes" type="button" onClick="showTime(['Hypothyroidism']);">
 </span></p>
 
+<p>Pregnancy<span>
+  <input value="have been pregnant within the past 6 months" type="button" onClick="showTime(['Hypothyroidism']);">
+</span></p>
+
 <p>Stomach<span>
   <input value="aches" type="button" onClick="showTime(['Influenza', 'Postural_orthostatic_tachycardia_syndrome']);">
   <input value="bloating" type="button" onClick="showTime(['Postural_orthostatic_tachycardia_syndrome']);">
