@@ -197,6 +197,7 @@
 
 <p>Pregnancy<span>
   <input value="have been pregnant within the past 6 months" type="button" onClick="showTime(['Hypothyroidism']);">
+  <input value="had a baby within the past 6 months" type="button" onClick="showTime(['Hypothyroidism']);">
 </span></p>
 
 <p>Stomach<span>
